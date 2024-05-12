@@ -1,0 +1,1 @@
+The act of receiving data for an AI model.

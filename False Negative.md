@@ -1,0 +1,1 @@
+An outcome that should be positive but is negative.

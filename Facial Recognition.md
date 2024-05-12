@@ -1,0 +1,1 @@
+A Computer Vision solution that can recognize faces within an image.

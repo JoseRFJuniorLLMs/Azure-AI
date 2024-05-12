@@ -1,0 +1,1 @@
+An AI agent that can carry on a conversation with a human being, usually through an online chat. Chatbots are built using a list of questions and answers that are commonly asked. Classification Machine Learning Model A model that predicts the categories to which specific entities will belong or categories f

@@ -1,0 +1,1 @@
+The act of manipulating an existing feature to the needs of a machine learning model.

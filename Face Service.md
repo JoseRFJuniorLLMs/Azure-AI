@@ -1,0 +1,1 @@
+A service that uses the Face API to detect faces, emotions, and other facial characteristics

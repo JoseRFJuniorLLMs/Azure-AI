@@ -1,0 +1,1 @@
+AI services that create models that take action based on something one can see, such as parts of an image or text, or hear, such as speech.

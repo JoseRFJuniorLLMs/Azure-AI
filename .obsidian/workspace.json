@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "33174acd091966ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fe095cdd700d089",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a11600c2dee35164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI-900.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63989563c9d95a99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI-900.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecd018fa70d80fa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI-900.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd1a68e38804a139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI-900.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d8f1db090b09ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI-900.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c76ed6bbf9222bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI-900.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53540739b2ad00bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI-900.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df957d9c6180e530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Features.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34f2ec67274edc9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "16b138e09da06106",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbb748057362cd65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "788ba38b92ec6c6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d073c0efab6807d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5612a97ef8df680b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d632bf5bbdbd2977",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2467dee13d57d24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Features.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fb5f44840131abf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Features.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f46e4f3f5ba447cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ca4a7597130d6cc8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Features.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "df957d9c6180e530",
+  "lastOpenFiles": [
+    "AI-900.md",
+    "Features.md",
+    "Feature Selection.md",
+    "Feature Engineering.md",
+    "False Positive.md",
+    "False Negative.md",
+    "Fairness.md",
+    "Facial Recognition.md",
+    "Facial Detection.md",
+    "Facial Analysis.md",
+    "Face Service.md",
+    "Entity Recognition.md",
+    "Data Preparation.md",
+    "Data Ingestion.md",
+    "Custom Vision Service.md",
+    "Conversational AI.md",
+    "Computer Vision Workload.md",
+    "Cognitive Services.md",
+    "Clustering Machine Learning Model.md",
+    "Chatbot.md",
+    "Channels.md",
+    "Azure Machine Learning Studio.md",
+    "Azure Machine Learning Designer.md",
+    "Azure Bot Service.md",
+    "Automated ML UI.md",
+    "Accountability.md"
+  ]
+}

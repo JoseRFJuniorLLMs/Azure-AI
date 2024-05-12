@@ -1,0 +1,1 @@
+A model that groups items based on their features, rather than assigning data to predetermined groups.

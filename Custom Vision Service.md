@@ -1,0 +1,1 @@
+A service that allows one to train an [[AI]] model to differentiate among what is seen in pictures. The more images there are to train, the better the results will be for a Custom Vision project.

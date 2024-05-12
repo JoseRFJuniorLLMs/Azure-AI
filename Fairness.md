@@ -1,0 +1,1 @@
+The first guiding principle for responsible AI. Fairness ensures bias is not shown toward or against individuals. AI models should be built to either avoid bias, identify potential areas of bias, or both.

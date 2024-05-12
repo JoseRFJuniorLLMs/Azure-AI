@@ -1,0 +1,1 @@
+A machine learning model trained to identify one or more subjects within a video or a series of pictures.

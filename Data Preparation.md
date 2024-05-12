@@ -1,0 +1,1 @@
+The act of transforming data to be ready to run through an AI model.

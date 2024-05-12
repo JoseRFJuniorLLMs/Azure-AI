@@ -1,0 +1,1 @@
+An [[NLP]] workload that can identify a person, location, organization, quantity, or date within text.

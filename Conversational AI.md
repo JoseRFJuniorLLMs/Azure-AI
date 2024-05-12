@@ -1,0 +1,1 @@
+The technology that allows AI to interact and converse with real humans, often through online bots.
