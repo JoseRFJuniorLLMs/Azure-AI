@@ -1,0 +1,2 @@
+[[QnA Maker Service]]- to quickly build a knowledge base of questions and answers that can form the basis of a dialog between a human and an AI agent 
+[[Azure Bot Service]] - provides a platform for creating, publishing, and managing bots

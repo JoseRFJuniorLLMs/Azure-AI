@@ -1,0 +1,1 @@
+The Anomaly Detector service provides an application programming interface (API) that developers can use to create anomaly detection solutions An AI service that helps you foresee problems before they occur Boost your business systems’ reliability with early problem detection

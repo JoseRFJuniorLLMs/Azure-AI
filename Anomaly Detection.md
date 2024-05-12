@@ -1,0 +1,1 @@
+Monitor credit card transactions and detect unusual usage patterns that might indicate fraud An application that tracks activity in an automated production line and identifies failures A racing car telemetry system that uses sensors to proactively warn engineers about potential mechanical failures before they happen

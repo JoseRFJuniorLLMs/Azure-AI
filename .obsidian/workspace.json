@@ -4,18 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "299742ab6b6d68e9",
+        "id": "5be8671425f58882",
         "type": "tabs",
         "children": [
           {
-            "id": "0c224a872a904821",
+            "id": "316f5018de7da763",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/AI-900.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d66c0026bbf745d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/AI-900.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8e55f9bfa2fc1ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/AI-900.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8acf0e80d62824c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/AI-900.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6f8c6425b0b8c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conversational AI in Microsoft Azure.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Accountability.md",
+                "file": "Conversational AI in Microsoft Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary/Accountability.md",
+                "file": "Conversational AI in Microsoft Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Accountability.md"
+                "file": "Conversational AI in Microsoft Azure.md"
               }
             }
           }
@@ -142,13 +195,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbb748057362cd65",
+  "active": "a6f8c6425b0b8c39",
   "lastOpenFiles": [
-    "Glossary/Forecasting Workload.md",
+    "Glossary/AI-900.md",
+    "Conversational AI in Microsoft Azure.md",
+    "Cases for conversational AI.md",
+    "Service used for NLP in Microsoft Azure.md",
+    "Cases for NLP.md",
+    "Computer Vision in Microsoft Azure.md",
+    "Computer Vision.md",
+    "Anomaly Detection in Microsoft Azure.md",
+    "Anomaly Detection.md",
+    "Pipelines.md",
+    "Data and compute management.md",
+    "Glossary/Azure Machine Learning Designer.md",
+    "Automated machine learning.md",
     "Glossary/Accountability.md",
+    "Glossary/Forecasting Workload.md",
     "Glossary",
     "Glossary/Validation Dataset.md",
-    "Glossary/AI-900.md",
     "Glossary/True Positive.md",
     "Glossary/True Negative.md",
     "Glossary/Translator Text Service.md",
@@ -159,18 +224,6 @@
     "Glossary/Speech Synthesis.md",
     "Glossary/Speech Service.md",
     "Glossary/Speech Recognition.md",
-    "Glossary/Sentiment Analysis.md",
-    "Glossary/Semantic Segmentation Solution.md",
-    "Glossary/Reliability and Safety.md",
-    "Glossary/Regression Machine Learning.md",
-    "Glossary/QnA Maker Service.md",
-    "Glossary/Privacy and Security.md",
-    "Prediction",
-    "Glossary/Personal Digital Assistant.md",
-    "Glossary/Optical Character.md",
-    "Glossary/Object Detection Solution.md",
-    "Glossary/NLP Workloads.md",
-    "Glossary/Machine Learning Model.md",
-    "Glossary/Machine Learning Algorithm.md"
+    "Prediction"
   ]
 }

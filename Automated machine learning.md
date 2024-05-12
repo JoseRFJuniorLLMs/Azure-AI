@@ -1,0 +1,1 @@
+- Enables non-experts to quickly create an effective machine learning model from data.
