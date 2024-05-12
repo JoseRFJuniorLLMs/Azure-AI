@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5be8671425f58882",
+        "id": "40ad8b6d72761aac",
         "type": "tabs",
         "children": [
           {
-            "id": "316f5018de7da763",
+            "id": "d1f526cf48aeefe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "5d66c0026bbf745d",
+            "id": "f45f7785e2595663",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "e8e55f9bfa2fc1ac",
+            "id": "825254e006e7d4e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "8acf0e80d62824c5",
+            "id": "6e45770ee510b738",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,19 +56,43 @@
             }
           },
           {
-            "id": "a6f8c6425b0b8c39",
+            "id": "7580894f5c8dadbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conversational AI in Microsoft Azure.md",
+                "file": "Glossary/AI-900.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd6ea815162824d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/AI-900.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a56ea2ddd1d8c66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Language Understanding.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conversational AI in Microsoft Azure.md",
+                "file": "Language Understanding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conversational AI in Microsoft Azure.md",
+                "file": "Language Understanding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conversational AI in Microsoft Azure.md"
+                "file": "Language Understanding.md"
               }
             }
           }
@@ -195,35 +219,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6f8c6425b0b8c39",
+  "active": "5a56ea2ddd1d8c66",
   "lastOpenFiles": [
     "Glossary/AI-900.md",
-    "Conversational AI in Microsoft Azure.md",
-    "Cases for conversational AI.md",
-    "Service used for NLP in Microsoft Azure.md",
-    "Cases for NLP.md",
-    "Computer Vision in Microsoft Azure.md",
-    "Computer Vision.md",
-    "Anomaly Detection in Microsoft Azure.md",
-    "Anomaly Detection.md",
-    "Pipelines.md",
-    "Data and compute management.md",
-    "Glossary/Azure Machine Learning Designer.md",
-    "Automated machine learning.md",
-    "Glossary/Accountability.md",
-    "Glossary/Forecasting Workload.md",
-    "Glossary",
-    "Glossary/Validation Dataset.md",
-    "Glossary/True Positive.md",
-    "Glossary/True Negative.md",
-    "Glossary/Translator Text Service.md",
-    "Glossary/Transparency.md",
-    "Glossary/Training Dataset.md",
+    "Language Understanding.md",
+    "Translation Service.md",
+    "Speech recognition and Synthesis.md",
     "Glossary/Text Analytics Service.md",
-    "Glossary/Telephone Voice Menus.md",
+    "Azure Services for NLP.md",
+    "Translation.md",
     "Glossary/Speech Synthesis.md",
-    "Glossary/Speech Service.md",
     "Glossary/Speech Recognition.md",
+    "Glossary/Sentiment Analysis.md",
+    "Glossary/Entity Recognition.md",
+    "Glossary/Key Phrase Extraction.md",
+    "NLP.md",
+    "Form Recognizer.md",
+    "Glossary/Form Recognizer Service.md",
+    "Face Recognition.md",
+    "Face Detection.md",
+    "Glossary/Face Service.md",
+    "Glossary/Custom Vision Service.md",
+    "Computer Vision.md",
+    "Optical Character Recognition.md",
+    "Computer Vision Service.md",
+    "Moderate content in images.md",
+    "Get the area of interest.md",
+    "Detect domain-specific content.md",
+    "Categorize an Image.md",
+    "Glossary",
     "Prediction"
   ]
 }

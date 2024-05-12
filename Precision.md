@@ -1,0 +1,1 @@
+Precision is a measure of the correct positive results. Precision is the number of true positives divided by the sum of the number of true positives and false positives. Precision is scored between 0 and 1. Values closer to 1 are better. • 

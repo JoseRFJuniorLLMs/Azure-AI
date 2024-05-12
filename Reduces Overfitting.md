@@ -1,0 +1,1 @@
+: Less redundant data means less opportunity to make decisions based on noise.

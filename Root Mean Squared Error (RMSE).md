@@ -1,0 +1,1 @@
+The square root of the mean squared difference between predicted and true values. The result is a metric based on the same unit as the label (dollars). When compared to the [[Mean Absolute Error (MAE)]] (above), a larger difference indicates greater variance in the individual errors (for example, with some errors being very small, while others are large).

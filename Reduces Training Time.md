@@ -1,0 +1,1 @@
+Fewer data points reduce algorithm complexity and algorithms train faster.

@@ -1,0 +1,1 @@
+Coefficient of determination is a measure of the variance from the mean in its predictions. Its value varies between 0 and 1, where 1 typically indicates a perfectly fit model, while 0 indicates a random one. This metric is more commonly referred to as R-Squared.

@@ -1,1 +1,0 @@
-A Computer Vision solution that colors in pixels of identified objects on images to make those images stand out.

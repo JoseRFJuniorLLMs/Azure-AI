@@ -1,1 +1,0 @@
-A Computer Vision solution that identifies specific objects within images.

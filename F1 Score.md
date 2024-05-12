@@ -1,0 +1,1 @@
+F1 score is a measure combining precision and recall. F1 score is the weighted average of precision and recall (the number of true positives divided by the sum of true positives and false negatives). F-score is scored between 0 and 1. Values closer to 1 are better. • 

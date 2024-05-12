@@ -1,0 +1,5 @@
+Face recognition describes the work of comparing two different faces to determine if they're similar or belong to the same person.. 
+• The Verify operation takes a face and determines if it belongs to the same person as another face. Addresses the question, "Are these two images the same person?"
+• The Find Similar operation takes a face you have detected and extracts faces that look alike from a list of faces that you provide. Find Similar returns a subset of the faces in the list. This operation is useful for doing a face search by image.
+• The Group operation creates several smaller groups from a list of faces based on the similarities of the faces. Also supports differentiating by another factor such as expression 
+• The Identify operation takes one or more face(s) and matches them to people. The Identify operation returns a list of possible matches with a confidence score between 0 and 1, with 1 being the most confident. Answers the question, "Can this detected face be matched to any enrolled face in a database?

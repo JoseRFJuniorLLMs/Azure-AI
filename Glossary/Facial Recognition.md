@@ -1,1 +1,3 @@
 A Computer Vision solution that can recognize faces within an image.
+
+• A further application of facial analysis is to train a machine learning model to identify known individuals from their facial features. • This usage is more generally known as facial recognition, and involves using multiple images of each person you want to recognize to train a model so that it can detect those individuals in new images on which it wasn't trained.
