@@ -1,0 +1,1 @@
+A service that handles speech-to-text and text-to-speech duties, speaker (voice) recognition, intent recognition, and speech translation.

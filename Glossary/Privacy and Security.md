@@ -1,0 +1,1 @@
+The third guiding principle for responsible AI. As data is used to build AI models, it is important to protect that data as it may be sensitive. Data must be kept private when necessary, and it should always be secured.

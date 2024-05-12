@@ -1,0 +1,1 @@
+A Computer Vision solution that trains an AI model to identify and assign part of an image to a category.

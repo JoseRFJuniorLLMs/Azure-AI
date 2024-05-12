@@ -1,0 +1,1 @@
+A numeric outcome within an AI model. Labels are the outputs, specifically output columns within a machine learning model.

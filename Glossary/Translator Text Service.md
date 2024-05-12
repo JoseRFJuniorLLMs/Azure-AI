@@ -1,0 +1,1 @@
+A service that offers both literal and semantic translations in up to 60 languages. This service works through a Neural Machine Translation (NMT) model, which uses semantics to output a more accurate translation than literal text. Text translations, speech translations, and speechto-text translations are all available within this service.

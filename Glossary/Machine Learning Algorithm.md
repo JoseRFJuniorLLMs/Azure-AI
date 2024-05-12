@@ -1,0 +1,1 @@
+A tool used to help train a model by priority, such as time or accuracy.

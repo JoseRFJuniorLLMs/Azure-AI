@@ -1,0 +1,1 @@
+A service that can detect text on forms and, in some cases, generate key-value pairs.

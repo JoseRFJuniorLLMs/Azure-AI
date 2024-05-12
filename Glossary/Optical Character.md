@@ -1,0 +1,1 @@
+A Computer Vision solution that can utilize extracted text from an image, an app, a search, or a database.

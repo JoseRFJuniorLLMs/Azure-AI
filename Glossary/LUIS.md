@@ -1,0 +1,1 @@
+Language Understanding Service (LUIS) is a service that helps one understand what is said when something is being translated via the analysis of utterances, intents, and entities.

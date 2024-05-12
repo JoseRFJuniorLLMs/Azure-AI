@@ -1,0 +1,1 @@
+A service which performs many tasks, including entity detection and sentiment analysis.

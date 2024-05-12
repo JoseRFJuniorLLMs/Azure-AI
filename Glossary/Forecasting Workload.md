@@ -1,0 +1,1 @@
+A workload used to make predictions based on given data. Also known as machine learning.

@@ -4,107 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2fe095cdd700d089",
+        "id": "299742ab6b6d68e9",
         "type": "tabs",
         "children": [
           {
-            "id": "a11600c2dee35164",
+            "id": "0c224a872a904821",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI-900.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63989563c9d95a99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI-900.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecd018fa70d80fa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI-900.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd1a68e38804a139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI-900.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d8f1db090b09ebf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI-900.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c76ed6bbf9222bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI-900.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53540739b2ad00bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI-900.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df957d9c6180e530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Features.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Features.md",
+                "file": "Glossary/Accountability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Features.md",
+                "file": "Glossary/Accountability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Features.md"
+                "file": "Glossary/Accountability.md"
               }
             }
           }
@@ -231,33 +142,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df957d9c6180e530",
+  "active": "fbb748057362cd65",
   "lastOpenFiles": [
-    "AI-900.md",
-    "Features.md",
-    "Feature Selection.md",
-    "Feature Engineering.md",
-    "False Positive.md",
-    "False Negative.md",
-    "Fairness.md",
-    "Facial Recognition.md",
-    "Facial Detection.md",
-    "Facial Analysis.md",
-    "Face Service.md",
-    "Entity Recognition.md",
-    "Data Preparation.md",
-    "Data Ingestion.md",
-    "Custom Vision Service.md",
-    "Conversational AI.md",
-    "Computer Vision Workload.md",
-    "Cognitive Services.md",
-    "Clustering Machine Learning Model.md",
-    "Chatbot.md",
-    "Channels.md",
-    "Azure Machine Learning Studio.md",
-    "Azure Machine Learning Designer.md",
-    "Azure Bot Service.md",
-    "Automated ML UI.md",
-    "Accountability.md"
+    "Glossary/Forecasting Workload.md",
+    "Glossary/Accountability.md",
+    "Glossary",
+    "Glossary/Validation Dataset.md",
+    "Glossary/AI-900.md",
+    "Glossary/True Positive.md",
+    "Glossary/True Negative.md",
+    "Glossary/Translator Text Service.md",
+    "Glossary/Transparency.md",
+    "Glossary/Training Dataset.md",
+    "Glossary/Text Analytics Service.md",
+    "Glossary/Telephone Voice Menus.md",
+    "Glossary/Speech Synthesis.md",
+    "Glossary/Speech Service.md",
+    "Glossary/Speech Recognition.md",
+    "Glossary/Sentiment Analysis.md",
+    "Glossary/Semantic Segmentation Solution.md",
+    "Glossary/Reliability and Safety.md",
+    "Glossary/Regression Machine Learning.md",
+    "Glossary/QnA Maker Service.md",
+    "Glossary/Privacy and Security.md",
+    "Prediction",
+    "Glossary/Personal Digital Assistant.md",
+    "Glossary/Optical Character.md",
+    "Glossary/Object Detection Solution.md",
+    "Glossary/NLP Workloads.md",
+    "Glossary/Machine Learning Model.md",
+    "Glossary/Machine Learning Algorithm.md"
   ]
 }

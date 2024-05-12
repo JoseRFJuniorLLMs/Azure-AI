@@ -1,0 +1,1 @@
+A bot that takes written or verbal input and returns one or more results.

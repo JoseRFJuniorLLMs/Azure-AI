@@ -1,0 +1,1 @@
+A group of data transformed for readiness for predictions, which then uses algorithms, trained and scored, to predict future outcomes.

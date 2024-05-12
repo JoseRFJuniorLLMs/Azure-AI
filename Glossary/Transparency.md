@@ -1,0 +1,1 @@
+The fifth guiding principle for responsible AI. Transparency is the act of making known the purpose, limitations, and results of a solution.

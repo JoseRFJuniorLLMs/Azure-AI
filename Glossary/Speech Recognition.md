@@ -1,0 +1,1 @@
+A tool that detects and interprets what is spoken.

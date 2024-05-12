@@ -1,0 +1,1 @@
+A match between an actual and predicted positive outcome.

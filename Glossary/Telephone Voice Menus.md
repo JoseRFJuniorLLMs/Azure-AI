@@ -1,0 +1,1 @@
+A system in which someone speaks and gets a bot to direct a call to an appropriate resource.

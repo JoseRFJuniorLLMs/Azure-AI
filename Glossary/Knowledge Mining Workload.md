@@ -1,0 +1,1 @@
+A machine learning model trained to identify specific information about data, such as if a message is legitimate or spam.

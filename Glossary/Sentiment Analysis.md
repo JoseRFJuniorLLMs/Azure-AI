@@ -1,0 +1,1 @@
+A tool that measures whether the specified text has positive or negative connotations.

@@ -1,0 +1,1 @@
+Models that use statistical analysis to predict numeric outcomes based on input data. Regression machine learning models fall under the supervised category.
