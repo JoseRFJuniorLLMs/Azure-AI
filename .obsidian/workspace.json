@@ -8,127 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1f526cf48aeefe0",
+            "id": "e2cc1a269310e8d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/AI-900.md",
+                "file": "Glossary/Clustering Machine Learning Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f45f7785e2595663",
+            "id": "69c6892c0968c24f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/AI-900.md",
+                "file": "Evaluation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "825254e006e7d4e9",
+            "id": "afab9a7228573b2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/AI-900.md",
+                "file": "Retrieval Capability.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6e45770ee510b738",
+            "id": "4a86d4689d97683b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/AI-900.md",
+                "file": "Specific Domains.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7580894f5c8dadbf",
+            "id": "f403dfe519c06325",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/AI-900.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd6ea815162824d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/AI-900.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a56ea2ddd1d8c66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/AI-900.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "decea4844c241be1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/AI-900.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a7d877864ef1b16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/AI-900.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "feceefb8518fe576",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bot Framework.md",
+                "file": "General Performance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bot Framework.md",
+                "file": "Evaluation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bot Framework.md",
+                "file": "Evaluation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bot Framework.md"
+                "file": "Evaluation.md"
               }
             }
           }
@@ -255,10 +195,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "feceefb8518fe576",
+  "active": "69c6892c0968c24f",
   "lastOpenFiles": [
-    "Glossary/AI-900.md",
+    "Retrieval Capability.md",
+    "Evaluation.md",
+    "Specific Domains.md",
+    "General Performance.md",
+    "Glossary/Clustering Machine Learning Model.md",
+    "LLMs.md",
+    "Pasted image 20240712095840.png",
+    "NLP.md",
     "Bot Framework.md",
+    "Glossary/AI-900.md",
     "Resources created with QnA Maker Service.md",
     "Glossary/QnA Maker Service.md",
     "Language Understanding.md",
@@ -272,17 +220,10 @@
     "Glossary/Sentiment Analysis.md",
     "Glossary/Entity Recognition.md",
     "Glossary/Key Phrase Extraction.md",
-    "NLP.md",
     "Form Recognizer.md",
     "Glossary/Form Recognizer Service.md",
     "Face Recognition.md",
     "Face Detection.md",
-    "Glossary/Face Service.md",
-    "Glossary/Custom Vision Service.md",
-    "Computer Vision.md",
-    "Optical Character Recognition.md",
-    "Computer Vision Service.md",
-    "Moderate content in images.md",
     "Glossary",
     "Prediction"
   ]
