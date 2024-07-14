@@ -1,0 +1,1 @@
+![[multimodal_rag_using_llamaindex.png]]

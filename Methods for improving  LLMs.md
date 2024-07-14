@@ -1,4 +1,4 @@
-![[Pasted image 20240714173421.png]]
+![[methods_imprving_llms.png]]
 
 
 Prompt Engineering

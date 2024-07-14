@@ -4,153 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "40ad8b6d72761aac",
+        "id": "fdabd899e01f3aa7",
         "type": "tabs",
         "children": [
           {
-            "id": "e2cc1a269310e8d3",
+            "id": "503ac35b6b74467f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Clustering Machine Learning Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69c6892c0968c24f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evaluation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aed755c04a2fca3e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "244886701e14be47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LangChain or LlamaIndex or Haystack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11061f9654bbe33d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLMs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78311d5ef3cc7cbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methods for improving  LLMs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf403725403dfc77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM agent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5787c2f7f1fcb2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evaluating LLMs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc449ecc75b0f917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Custom RAG Chatbot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afab9a7228573b2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retrieval Capability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a86d4689d97683b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Specific Domains.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f403dfe519c06325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Performance.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom RAG Chatbot.md",
+                "file": "img/langchain_lliamaindex.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom RAG Chatbot.md",
+                "file": "img/langchain_lliamaindex.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom RAG Chatbot.md"
+                "file": "img/langchain_lliamaindex.png"
               }
             }
           }
@@ -277,41 +142,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc449ecc75b0f917",
+  "active": "fbb748057362cd65",
   "lastOpenFiles": [
-    "Pasted image 20240714173803.png",
-    "Evaluating LLMs.md",
+    "img/lang_chain.png",
+    "img/rag_enhancement.png",
+    "img/semantic_caching.png",
+    "img/enhancing_llm.png",
+    "img/genAITools.png",
+    "img/q&a_lagchain.png",
+    "img/agentic_rag_with_llamaindex.png",
+    "img/adaptive_rag.png",
+    "img/Pasted image 20240714181932.png",
+    "img/multimodal_rag_using_llamaindex.png",
+    "img/improving_rag_pipeline.png",
+    "Combining Langchain & LIamaIndex.md",
+    "Components of an LLM.md",
+    "Agentic RAG.md",
+    "How LLMs Are Built.md",
+    "Improving RAG Pipeline.md",
+    "Multmodal RAG.md",
+    "Advanced RAG.md",
+    "Adaptive RAG.md",
+    "Agentic RAG with LIamaIndex.md",
+    "Building Q&A LangChain.md",
+    "AI frameworks.md",
+    "Enhancing LLM.md",
+    "Semantic caching.md",
+    "RAG Enhancement Technique.md",
+    "Hybrid Search.md",
+    "LangChain vs LIamaIndex.md",
+    "Improving Indexed Data Quality.md",
+    "Chunking.md",
+    "RAG Best Pratices.md",
+    "README.md",
     "Custom RAG Chatbot.md",
-    "Pasted image 20240714173633.png",
+    "Evaluating LLMs.md",
     "LLM agent.md",
-    "Pasted image 20240714173543.png",
     "Methods for improving  LLMs.md",
-    "Pasted image 20240714173421.png",
     "LLMs.md",
-    "img/LLMS.jpg",
-    "Computer Vision in Microsoft Azure.md",
-    "Computer Vision Service.md",
-    "OCR.md",
-    "Cases for NLP.md",
-    "AUC.md",
-    "Accuracy.md",
-    "Anomaly Detection.md",
-    "NLP.md",
-    "Translation.md",
-    "Translation Service.md",
-    "Uses of face detection and analysis.md",
-    "Vector Index.md",
-    "Pasted image 20240714171918.png",
-    "LangChain or LlamaIndex or Haystack.md",
-    "Pasted image 20240714165830.png",
-    "Retrieval Capability.md",
-    "Evaluation.md",
-    "Specific Domains.md",
-    "General Performance.md",
-    "Glossary/Clustering Machine Learning Model.md",
-    "Pasted image 20240712095840.png",
-    "Bot Framework.md",
-    "Glossary/AI-900.md",
     "Glossary",
     "Prediction"
   ]

@@ -1,4 +1,4 @@
-![[Pasted image 20240712095840.png]]
+![[evaluation.png]]
 
 [[ General Performance]]
 This criterion evaluates the overall effectiveness and efficiency of a system or process. It encompasses a wide range of metrics such as speed, accuracy, reliability, and scalability. General performance looks at how well the system performs under various conditions and its ability to meet the general expectations of its users.

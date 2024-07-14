@@ -1,0 +1,2 @@
+Strategy and size matters to optimize index structure:  
+When setting up your Retrieval Augmented Generation (RAG) system, the size of the chunks and chunking technique plays a crucial role. It determines how much information is retrieved from the document store for processing. Choosing a small chunk size may lead to missing important details, while opting for a larger size could introduce irrelevant information.  

@@ -1,0 +1,1 @@
+While vector search excels in retrieving semantically relevant chunks for queries, it sometimes lacks precision in matching specific keywords. To get the best of both the worlds, (vector search + full-text search) you need hybrid search.

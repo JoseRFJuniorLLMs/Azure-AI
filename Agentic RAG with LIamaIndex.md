@@ -1,0 +1,1 @@
+![[agentic_rag_with_llamaindex.png]]

@@ -1,4 +1,4 @@
-![[Pasted image 20240714165830.png]]
+![[llms_framework.png]]
 
 [[LangChain]]
 Is a general-purpose framework that's good for building a wide range of LLM applications, including text generation, translation, summarization, chatbots, and complex, interactive applications.

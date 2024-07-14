@@ -1,0 +1,1 @@
+Unfortunately, data cleaning is often overlooked during the development of RAGs, with a tendency to ingest all available documents without verifying their quality. We need to ensure that the data fed into the RAG system is of high quality for obtaining accurate answers. The principle of “garbage in, garbage out” is especially relevant here.  

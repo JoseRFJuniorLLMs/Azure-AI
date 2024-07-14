@@ -1,1 +1,1 @@
-![[Pasted image 20240714173633.png]]
+![[llm_evaluation_metric_score.png]]

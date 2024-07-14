@@ -1,1 +1,1 @@
-![[Pasted image 20240714173803.png]]
+![[custon_rag_chatbot.png]]

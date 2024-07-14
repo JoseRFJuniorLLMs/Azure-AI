@@ -1,1 +1,1 @@
-![[Pasted image 20240714171918.png]]
+![[vetor_search.png]]
