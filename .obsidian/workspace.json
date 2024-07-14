@@ -32,6 +32,88 @@
             }
           },
           {
+            "id": "aed755c04a2fca3e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
+            "id": "244886701e14be47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LangChain or LlamaIndex or Haystack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11061f9654bbe33d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLMs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78311d5ef3cc7cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methods for improving  LLMs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf403725403dfc77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM agent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5787c2f7f1fcb2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evaluating LLMs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc449ecc75b0f917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom RAG Chatbot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "afab9a7228573b2b",
             "type": "leaf",
             "state": {
@@ -68,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -134,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evaluation.md",
+                "file": "Custom RAG Chatbot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evaluation.md",
+                "file": "Custom RAG Chatbot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evaluation.md"
+                "file": "Custom RAG Chatbot.md"
               }
             }
           }
@@ -195,35 +277,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69c6892c0968c24f",
+  "active": "fc449ecc75b0f917",
   "lastOpenFiles": [
+    "Pasted image 20240714173803.png",
+    "Evaluating LLMs.md",
+    "Custom RAG Chatbot.md",
+    "Pasted image 20240714173633.png",
+    "LLM agent.md",
+    "Pasted image 20240714173543.png",
+    "Methods for improving  LLMs.md",
+    "Pasted image 20240714173421.png",
+    "LLMs.md",
+    "img/LLMS.jpg",
+    "Computer Vision in Microsoft Azure.md",
+    "Computer Vision Service.md",
+    "OCR.md",
+    "Cases for NLP.md",
+    "AUC.md",
+    "Accuracy.md",
+    "Anomaly Detection.md",
+    "NLP.md",
+    "Translation.md",
+    "Translation Service.md",
+    "Uses of face detection and analysis.md",
+    "Vector Index.md",
+    "Pasted image 20240714171918.png",
+    "LangChain or LlamaIndex or Haystack.md",
+    "Pasted image 20240714165830.png",
     "Retrieval Capability.md",
     "Evaluation.md",
     "Specific Domains.md",
     "General Performance.md",
     "Glossary/Clustering Machine Learning Model.md",
-    "LLMs.md",
     "Pasted image 20240712095840.png",
-    "NLP.md",
     "Bot Framework.md",
     "Glossary/AI-900.md",
-    "Resources created with QnA Maker Service.md",
-    "Glossary/QnA Maker Service.md",
-    "Language Understanding.md",
-    "Translation Service.md",
-    "Speech recognition and Synthesis.md",
-    "Glossary/Text Analytics Service.md",
-    "Azure Services for NLP.md",
-    "Translation.md",
-    "Glossary/Speech Synthesis.md",
-    "Glossary/Speech Recognition.md",
-    "Glossary/Sentiment Analysis.md",
-    "Glossary/Entity Recognition.md",
-    "Glossary/Key Phrase Extraction.md",
-    "Form Recognizer.md",
-    "Glossary/Form Recognizer Service.md",
-    "Face Recognition.md",
-    "Face Detection.md",
     "Glossary",
     "Prediction"
   ]
