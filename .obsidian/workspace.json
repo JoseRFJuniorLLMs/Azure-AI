@@ -11,8 +11,48 @@
             "id": "102c8828856b0385",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "RAG/RAG Using Llama 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f26fc6ef64c3497f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nearest Neighbor Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cf08a4a78060b22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vector Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41aca8d94e448ba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Text Embedding.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RAG/RAG Using Llama 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RAG/RAG Using Llama 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RAG/RAG Using Llama 3.md"
+              }
             }
           }
         ]
@@ -140,45 +184,46 @@
   },
   "active": "102c8828856b0385",
   "lastOpenFiles": [
+    "Pasted image 20240715222653.png",
+    "RAG/AI Agents Use Case.md",
+    "RAG/RAG Using Llama 3.md",
+    "Pasted image 20240715222611.png",
+    "RAG/Systematic RAG Workflow.md",
+    "Pasted image 20240715222528.png",
+    "LLMs/Agent LLMs Calls.md",
+    "Pasted image 20240715222340.png",
+    "RAG/Text & Knowledge Graph Embeddings.md",
+    "Pasted image 20240715222256.png",
+    "RAG/Two-Stage Rretrieval System.md",
+    "Pasted image 20240715222219.png",
+    "RAG/Knowledge Graph RAG with SingleStore.md",
+    "Pasted image 20240715221947.png",
+    "NLP/Semantic Search.md",
+    "Nearest Neighbor Search.md",
+    "Vector Database.md",
+    "Text Embedding.md",
+    "Pasted image 20240715221527.png",
+    "LLMs/Developing an LLMs.md",
+    "RAG/RAG Enhancement Technique.md",
+    "LLMs/LLMs agent.md",
+    "LLMs/Enhancing LLMs.md",
+    "LLMs/Components of an LLMs.md",
+    "Pasted image 20240715221155.png",
+    "RAG/Types of Embedding Models for RAG.md",
+    "Pasted image 20240715220454.png",
+    "RAG/Advanced RAG Techniques.md",
+    "Pasted image 20240715220423.png",
     "RAG/Modular RAG Framework.md",
-    "Pasted image 20240715220117.png",
     "LLMs/Self-Learning LLMs.md",
-    "Pasted image 20240715215838.png",
     "LLMs/How LLMs Are Built.md",
     "RAG/Improving RAG Pipeline.md",
     "RAG/Adaptive RAG.md",
-    "img/Pasted image 20240715214731.png",
     "RAG/Multmodal RAG.md",
     "RAG/Agentic RAG.md",
-    "RAG/Advanced RAG.md",
-    "LLMs/LLMs.md",
-    "img/Pasted image 20240715210016.png",
-    "NLP/NLP.md",
-    "img/LLMs_roadmap_scientist.png",
-    "LangChain/LangChain vs LIamaIndex.md",
-    "Language Understanding.md",
-    "LLMs/RAG Enhancement Technique.md",
-    "LLMs/LLM agent.md",
-    "LLMs/Evaluating LLMs.md",
-    "LLMs/Enhancing LLM.md",
-    "README.md",
     "LangChain",
     "LLMs",
     "NLP",
     "RAG",
-    "img/langchain_lliamaindex.png",
-    "img/lang_chain.png",
-    "img/rag_enhancement.png",
-    "img/semantic_caching.png",
-    "img/enhancing_llm.png",
-    "Combining Langchain & LIamaIndex.md",
-    "LLMs/Components of an LLM.md",
-    "RAG/Agentic RAG with LIamaIndex.md",
-    "LangChain/Building Q&A LangChain.md",
-    "AI frameworks.md",
-    "Semantic caching.md",
-    "Hybrid Search.md",
-    "Improving Indexed Data Quality.md",
     "Glossary",
     "Prediction"
   ]
