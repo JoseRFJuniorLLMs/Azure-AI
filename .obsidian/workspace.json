@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fdabd899e01f3aa7",
+        "id": "769ca4a09705c16b",
         "type": "tabs",
         "children": [
           {
-            "id": "503ac35b6b74467f",
+            "id": "102c8828856b0385",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLMs/How LLMs Are Built.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ca23a888a6c7af0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLMs/LLM agent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c48ba82916f704d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,16 +138,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbb748057362cd65",
+  "active": "102c8828856b0385",
   "lastOpenFiles": [
+    "RAG/Modular RAG Framework.md",
+    "Pasted image 20240715220117.png",
+    "LLMs/Self-Learning LLMs.md",
+    "Pasted image 20240715215838.png",
+    "LLMs/How LLMs Are Built.md",
+    "RAG/Improving RAG Pipeline.md",
+    "RAG/Adaptive RAG.md",
+    "img/Pasted image 20240715214731.png",
+    "RAG/Multmodal RAG.md",
+    "RAG/Agentic RAG.md",
+    "RAG/Advanced RAG.md",
+    "LLMs/LLMs.md",
+    "img/Pasted image 20240715210016.png",
     "NLP/NLP.md",
     "img/LLMs_roadmap_scientist.png",
     "LangChain/LangChain vs LIamaIndex.md",
     "Language Understanding.md",
     "LLMs/RAG Enhancement Technique.md",
-    "LLMs/LLMs.md",
     "LLMs/LLM agent.md",
-    "LLMs/How LLMs Are Built.md",
     "LLMs/Evaluating LLMs.md",
     "LLMs/Enhancing LLM.md",
     "README.md",
@@ -193,26 +171,14 @@
     "img/rag_enhancement.png",
     "img/semantic_caching.png",
     "img/enhancing_llm.png",
-    "img/genAITools.png",
-    "img/q&a_lagchain.png",
-    "img/agentic_rag_with_llamaindex.png",
-    "img/adaptive_rag.png",
     "Combining Langchain & LIamaIndex.md",
     "LLMs/Components of an LLM.md",
-    "RAG/Agentic RAG.md",
-    "Improving RAG Pipeline.md",
-    "Multmodal RAG.md",
-    "RAG/Advanced RAG.md",
-    "RAG/Adaptive RAG.md",
     "RAG/Agentic RAG with LIamaIndex.md",
     "LangChain/Building Q&A LangChain.md",
     "AI frameworks.md",
     "Semantic caching.md",
     "Hybrid Search.md",
     "Improving Indexed Data Quality.md",
-    "Chunking.md",
-    "LLMs/RAG Best Pratices.md",
-    "RAG/Custom RAG Chatbot.md",
     "Glossary",
     "Prediction"
   ]

@@ -12,3 +12,5 @@ Reranking
 Chunking
 Embedding
 Vector Database
+
+![[Pasted image 20240715210016.png]]
