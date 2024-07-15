@@ -1,4 +1,7 @@
 ![[LLMS.jpg]]
+
+![[LLMs_roadmap_scientist.png]]
+
 [[Evaluation]]
 Fine-Tune
 Summarization
