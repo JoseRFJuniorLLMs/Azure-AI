@@ -1,4 +1,4 @@
-![[Pasted image 20240715235811.png]]
+![[20240715235811.png]]
 
 Retrieval component, Augmentation component, Generation component.  
   

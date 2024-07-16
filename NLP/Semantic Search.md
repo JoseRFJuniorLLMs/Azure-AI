@@ -1,4 +1,4 @@
-![[Pasted image 20240715221527.png]]
+![[20240715221527.png]]
 
 
 ➤ [[Text Embedding]]: The first step is to convert the text data (documents, queries, etc.) into high-dimensional vector representations using a pre-trained language model like BERT, GPT, or custom models. These vectors capture the semantic meaning of the text in a dense numerical form.  

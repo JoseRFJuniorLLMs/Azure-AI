@@ -1,4 +1,4 @@
-![[Pasted image 20240716000053.png]]
+![[20240716000053.png]]
 
 But to make RAG work perfectly, here are some key points to consider:  
 1. Quality of External Knowledge Source  

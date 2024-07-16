@@ -1,4 +1,4 @@
-![[Pasted image 20240715235013.png]]
+![[20240715235013.png]]
 
 ⮕ [[Unstructured Data]] (Text): This includes plain text documents, web pages, and other free-form textual sources.  
   
