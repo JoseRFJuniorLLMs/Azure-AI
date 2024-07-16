@@ -1,4 +1,4 @@
-![[Pasted image 20240716000853.png]]
+![[rag_reranking.png]]
 
 LLMs can acquire new information in at least two ways:  
 1. Fine-tuning  

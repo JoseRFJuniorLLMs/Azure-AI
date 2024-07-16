@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fc3e78df25d9ccc8",
+        "id": "1b4c3d377625121d",
         "type": "tabs",
         "children": [
           {
-            "id": "f20e6fb70605a945",
+            "id": "3c9d7c3c3e3cd012",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/20240715214731.png"
+                "file": "Relative Absolute Error (RAE).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/20240715214731.png",
+                "file": "Relative Absolute Error (RAE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/20240715214731.png",
+                "file": "Relative Absolute Error (RAE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/20240715214731.png"
+                "file": "Relative Absolute Error (RAE).md"
               }
             }
           }
@@ -144,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbb748057362cd65",
+  "active": "3c9d7c3c3e3cd012",
   "lastOpenFiles": [
+    "img/rag_reranking.png",
+    "img/rag_pain_point.png",
+    "RAG/RAG Pain Points.md",
+    "img/20240715214731.png",
     "img/20240715210016.png",
     "README.md",
     "RAG/Advanced RAG LimaIndex & Claude 3.md",
@@ -163,7 +169,6 @@
     "img/20240716000730.png",
     "RAG/RAG Re-Ranking.md",
     "Rerank.md",
-    "Pasted image 20240716000853.png",
     "RAG/RAG vs FineTuning.md",
     "img/20240716000624.png",
     "Accuracy.md",
@@ -179,9 +184,6 @@
     "Generation.md",
     "Augmentation.md",
     "Retrieval.md",
-    "img/20240715235811.png",
-    "RAG/RAG Retrieval Sources.md",
-    "img/20240715235013.png",
     "LangChain",
     "LLMs",
     "NLP",

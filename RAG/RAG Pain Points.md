@@ -1,0 +1,1 @@
+![[rag_pain_point.png]]
