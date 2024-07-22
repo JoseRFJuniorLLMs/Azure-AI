@@ -1,0 +1,1 @@
+![[rag_query_response.png]]
