@@ -1,7 +1,7 @@
 ![[Semantic_Search.png]]
 
 
-➤ [[Text Embedding]]: The first step is to convert the text data (documents, queries, etc.) into high-dimensional vector representations using a pre-trained language model like BERT, GPT, or custom models. These vectors capture the semantic meaning of the text in a dense numerical form.  
+➤ [[Text_Embedding]]: The first step is to convert the text data (documents, queries, etc.) into high-dimensional vector representations using a pre-trained language model like BERT, GPT, or custom models. These vectors capture the semantic meaning of the text in a dense numerical form.  
   
 ➤ [[Vector Database]]: The text vectors are then stored in a specialized vector database, like SingleStore or Pinecone or Chroma DB. These databases are optimized for fast nearest neighbor search on high-dimensional vectors.  
   

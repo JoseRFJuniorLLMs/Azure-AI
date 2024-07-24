@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ac456ecc1433b9da",
+        "id": "b4fc2ce6368e2965",
         "type": "tabs",
         "children": [
           {
-            "id": "1572df8c48a273a7",
+            "id": "3dcc484b0b1015e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vector Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af6dc11d19f83bba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multi-Scale Transformer (MST).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "915fb20d19dced5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overfitting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbb698fbf438c5d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Layer-Wise Training.md",
+                "file": "Rerank.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multi-Scale Transformer (MST).md",
+                "file": "Rerank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multi-Scale Transformer (MST).md",
+                "file": "Rerank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multi-Scale Transformer (MST).md"
+                "file": "Rerank.md"
               }
             }
           }
@@ -183,12 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af6dc11d19f83bba",
+  "active": "fbb748057362cd65",
   "lastOpenFiles": [
+    "Semantic_caching.md",
+    "Text_Embedding.md",
+    "Transformation from Single Query to Multi Query.md",
+    "Translation.md",
+    "Translation Service.md",
+    "Unstructured Data.md",
+    "Uses of face detection and analysis.md",
+    "Improving Indexed Data Quality.md",
+    "Knowledge Distillation (KD).md",
+    "BD_Vector/Vector Index.md",
+    "BD_Vector/Vector Database.md",
+    "BD_Vector",
+    "LlamaIndex/Combining Langchain & LIamaIndex.md",
+    "Categorize_an_Image.md",
+    "Azure_Cognitive_Services.md",
+    "Automated_Machine_Learning.md",
+    "Augmentation.md",
+    "AUC.md",
+    "Anomaly Detection in Microsoft Azure.md",
+    "Anomaly Detection.md",
+    "AI frameworks.md",
+    "Accuracy.md",
+    "LangChain/LangChain vs LIamaIndex.md",
+    "LlamaIndex",
+    "LangChain/Building Q&A LangChain.md",
     "Overfitting.md",
-    "Multi-Scale Transformer (MST).md",
-    "Layer-Wise Training.md",
-    "Vector Index.md",
+    "Chunking.md",
+    "Cases_for_Conversational_AI.md",
     "Img/Gen_AI.png",
     "Img/Advanced_RAG.png",
     "Img/Self_Learning_LLMs.png",
@@ -199,29 +186,7 @@
     "Img/Semantic_Search.png",
     "Img/Knowledge_Graph_RAG_Single_Store.png",
     "Img/Two_Stage_Retrieval_System.png",
-    "RAG/RAG.md",
-    "ML/ML.md",
     "ML",
-    "LLMs/LLMs Road Map.md",
-    "Augmentation.md",
-    "AUC.md",
-    "Anomaly Detection in Microsoft Azure.md",
-    "Anomaly Detection.md",
-    "AI frameworks.md",
-    "Accuracy.md",
-    "RAG/RAG Retrieval e Graph.md",
-    "RAG/RAG Re-Ranking.md",
-    "RAG/RAG Query Guardrails vs Response Guardrails.md",
-    "RAG/Types of Embedding Models for RAG.md",
-    "RAG/Two-Stage Rretrieval System.md",
-    "RAG/Text Splitting RAG.md",
-    "RAG/Text & Knowledge Graph Embeddings.md",
-    "RAG/Systematic RAG Workflow.md",
-    "RAG/RAG vs FineTuning.md",
-    "RAG/RAG Using Llama 3.md",
-    "RAG/RAG Stack.md",
-    "LLMs/LLM models.md",
-    "RAG/RAG Retrieval Sources.md",
     "FineTuning",
     "LangChain",
     "LLMs",

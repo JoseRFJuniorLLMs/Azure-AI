@@ -15,4 +15,4 @@ But to make RAG work perfectly, here are some key points to consider:
   
 7. [[Vector Database]]: Having a vector database that supports fast ingestion, retrieval performance, hybrid search is utmost important.  
   
-8.[[ LLM models]]: Consider LLM models that are robust and fast enough to build your RAG application.
+8.[[LLM_models]]: Consider LLM models that are robust and fast enough to build your RAG application.
