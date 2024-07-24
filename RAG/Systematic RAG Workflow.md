@@ -1,1 +1,1 @@
-![[20240715222528.png]]
+![[Systematic_RAG_Worfflow.png]]

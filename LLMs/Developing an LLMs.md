@@ -1,4 +1,4 @@
-![[20240715221155.png]]
+![[Developing_LLM.png]]
 
 Stage 1: Building  
 Stage 2: Pre-training  

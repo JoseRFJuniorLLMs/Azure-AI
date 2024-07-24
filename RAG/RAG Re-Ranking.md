@@ -1,8 +1,8 @@
 ![[rag_reranking.png]]
 
 LLMs can acquire new information in at least two ways:  
-1. Fine-tuning  
-2. RAG (retrieval augmented generation)  
+1. [[Fine-tuning ]] 
+2. [[RAG]] (retrieval augmented generation)  
   
 Retrieval-augmented generation (RAG) is the practice of extending the “memory” or knowledge of LLM by providing access to information from an external data source.  
   

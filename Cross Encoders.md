@@ -1,3 +1,3 @@
-![[Pasted image 20240722183028.png]]
+![[CrossEncoders.png]]
 
 [[Cross Encoders]]

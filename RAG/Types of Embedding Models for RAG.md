@@ -1,1 +1,1 @@
-![[20240715220454.png]]
+![[Embedding_Models_RAG.png]]

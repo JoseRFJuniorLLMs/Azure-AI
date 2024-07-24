@@ -4,117 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "4333aaa5b745cfbe",
+        "id": "ac456ecc1433b9da",
         "type": "tabs",
         "children": [
           {
-            "id": "e78b3bb3461a1de2",
+            "id": "1572df8c48a273a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG/Multmodal RAG.md",
+                "file": "Vector Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4937a6094eea5804",
+            "id": "af6dc11d19f83bba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG/RAG Retrieval e Graph.md",
+                "file": "Multi-Scale Transformer (MST).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "00937658fbf6529a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "fb82a77b843b4b66",
+            "id": "915fb20d19dced5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG/Agentic RAG.md",
+                "file": "Overfitting.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d101b9bb8fa77856",
+            "id": "bbb698fbf438c5d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1ff809cf858d0e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cross Encoders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7cb6a2ccca033b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Correlation vs Covariance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5055bf9c581497e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Covariance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc057e155e0216e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Correlation.md",
+                "file": "Layer-Wise Training.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 345.5
   },
   "right": {
     "id": "5612a97ef8df680b",
@@ -180,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Covariance.md",
+                "file": "Multi-Scale Transformer (MST).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Covariance.md",
+                "file": "Multi-Scale Transformer (MST).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Covariance.md"
+                "file": "Multi-Scale Transformer (MST).md"
               }
             }
           }
@@ -241,44 +183,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5055bf9c581497e6",
+  "active": "af6dc11d19f83bba",
   "lastOpenFiles": [
-    "Correlation vs Covariance.md",
-    "Covariance.md",
-    "Correlation.md",
-    "Pasted image 20240722183124.png",
-    "Cross Encoders.md",
-    "Pasted image 20240722183028.png",
-    "ML.md",
-    "Pasted image 20240722182643.png",
-    "RAG/Agentic RAG.md",
+    "Overfitting.md",
+    "Multi-Scale Transformer (MST).md",
+    "Layer-Wise Training.md",
+    "Vector Index.md",
+    "Img/Gen_AI.png",
+    "Img/Advanced_RAG.png",
+    "Img/Self_Learning_LLMs.png",
+    "Img/Modular_RAG_Framework.png",
+    "Img/Advanced_RAG_Tecniques.png",
+    "Img/Embedding_Models_RAG.png",
+    "Img/Developing_LLM.png",
+    "Img/Semantic_Search.png",
+    "Img/Knowledge_Graph_RAG_Single_Store.png",
+    "Img/Two_Stage_Retrieval_System.png",
     "RAG/RAG.md",
-    "RAG/RAG Retrieval e Graph.md",
-    "img/RAG_vs_Vector_RAG.png",
-    "Pasted image 20240719194205.png",
-    "img/ML_ENCODER.png",
-    "ML Ecoder.md",
-    "RAG/Multmodal RAG.md",
-    "README.md",
-    "img/rag_query_response.png",
-    "LLMs_road.png",
-    "img/VETOR_HYBRID.png",
-    "LLMs Road Map.md",
-    "Relative Absolute Error (RAE).md",
-    "img/rag_reranking.png",
-    "RAG/RAG Pain Points.md",
-    "RAG/Advanced RAG LimaIndex & Claude 3.md",
-    "RAG/Adaptive RAG.md",
-    "LLMs/Self-Learning LLMs.md",
-    "LLMs/Methods for improving  LLMs.md",
-    "LLMs/LLMs APP.md",
-    "LLMs/How LLMs Are Built.md",
-    "LLMs/Enhancing LLMs.md",
-    "LLMs/Components of an LLMs.md",
-    "LLMs/Agent LLMs Calls.md",
+    "ML/ML.md",
+    "ML",
+    "LLMs/LLMs Road Map.md",
+    "Augmentation.md",
     "AUC.md",
+    "Anomaly Detection in Microsoft Azure.md",
+    "Anomaly Detection.md",
     "AI frameworks.md",
+    "Accuracy.md",
+    "RAG/RAG Retrieval e Graph.md",
     "RAG/RAG Re-Ranking.md",
+    "RAG/RAG Query Guardrails vs Response Guardrails.md",
+    "RAG/Types of Embedding Models for RAG.md",
+    "RAG/Two-Stage Rretrieval System.md",
+    "RAG/Text Splitting RAG.md",
+    "RAG/Text & Knowledge Graph Embeddings.md",
+    "RAG/Systematic RAG Workflow.md",
+    "RAG/RAG vs FineTuning.md",
+    "RAG/RAG Using Llama 3.md",
+    "RAG/RAG Stack.md",
+    "LLMs/LLM models.md",
+    "RAG/RAG Retrieval Sources.md",
     "FineTuning",
     "LangChain",
     "LLMs",

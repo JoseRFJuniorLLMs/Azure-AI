@@ -1,1 +1,1 @@
-![[20240715222219.png]]
+![[Two_Stage_Retrieval_System.png]]

@@ -1,4 +1,4 @@
-![[20240715222340.png]]LLM Agents are a capable framework bringing LLM performance to the next level.  
+![[Agent_Framework_Executing_LLM.png]]LLM Agents are a capable framework bringing LLM performance to the next level.  
   
 Agent framework leverages a Large Language Model to act as a decision engine capable of solving complex tasks by multi-stage reasoning.  
   

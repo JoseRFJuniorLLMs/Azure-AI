@@ -1,4 +1,4 @@
-![[20240715235013.png]]
+![[RAG_Retrieval_Sources.png]]
 
 ⮕ [[Unstructured Data]] (Text): This includes plain text documents, web pages, and other free-form textual sources.  
   

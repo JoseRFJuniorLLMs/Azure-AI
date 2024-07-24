@@ -1,1 +1,2 @@
-![[20240715221947.png]]
+![[Knowledge_Graph_RAG_Single_Store.png]]
+

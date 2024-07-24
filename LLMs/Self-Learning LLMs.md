@@ -1,4 +1,4 @@
-![[20240715215838.png]]
+![[Self_Learning_LLMs.png]]
 
 Self-learning LLM framework enables an LLM to independently learn previously unknown knowledge through self-assessment of their own hallucinations.  
   

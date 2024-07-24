@@ -1,1 +1,1 @@
-![[20240715220117.png]] 
+![[Modular_RAG_Framework.png]] 

@@ -1,4 +1,4 @@
-![[20240715234606.png]]
+![[LLM_Chunking_Strategies.png]]
 
 [[LLMs, chunking strategies]]
 

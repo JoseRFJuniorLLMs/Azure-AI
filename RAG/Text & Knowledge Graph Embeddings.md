@@ -1,1 +1,1 @@
-![[20240715222256.png]]
+![[Text_Knowledge_Graph_Embeddings.png]]

@@ -13,4 +13,4 @@ Chunking
 Embedding
 Vector Database
 
-![[20240715210016.png]]
+![[Gen_AI.png]]

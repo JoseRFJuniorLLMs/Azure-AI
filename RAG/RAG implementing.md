@@ -1,4 +1,4 @@
-![[20240715235811.png]]
+![[Retrieval_Augmente_Generation.png]]
 
 Retrieval component, Augmentation component, Generation component.  
   

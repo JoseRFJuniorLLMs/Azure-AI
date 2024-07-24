@@ -1,1 +1,1 @@
-![[20240716000406.png]]
+![[Text_Splitting_RAG.png]]

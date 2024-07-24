@@ -1,1 +1,1 @@
-![[20240715220423.png]]
+![[Advanced_RAG_Tecniques.png]]
