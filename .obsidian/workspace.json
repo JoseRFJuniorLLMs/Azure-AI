@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b4fc2ce6368e2965",
+        "id": "8a895b84b2be7846",
         "type": "tabs",
         "children": [
           {
-            "id": "3dcc484b0b1015e6",
+            "id": "7d290bbf0604d4bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rerank.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 295.5
   },
   "right": {
     "id": "5612a97ef8df680b",
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rerank.md",
+                "file": "Img/rag_guardrails.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rerank.md",
+                "file": "Img/rag_guardrails.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rerank.md"
+                "file": "Img/rag_guardrails.png"
               }
             }
           }
@@ -148,6 +144,26 @@
   },
   "active": "fbb748057362cd65",
   "lastOpenFiles": [
+    "Img/basic_model.png",
+    "Img/naive_rag_vs_advanced_vs_modular.png",
+    "Img/fluxo_rag.png",
+    "Img/developer_llms.png",
+    "Glossary/AI-900.md",
+    "Query Guardrails.md",
+    "Reduces Training Time.md",
+    "Resources_created_with_QnA_Maker_Service.md",
+    "Accuracy.md",
+    "Rerank.md",
+    "LLMs/Components_of_an_LLMs.md",
+    "LLMs/Agent_LLMs_Calls.md",
+    "LLMs/Developing_an_LLMs.md",
+    "NMT.md",
+    "NLP/NLP.md",
+    "Naive RAG vs Advanced RAG vs Modular RAG.md",
+    "Developing an LLM.md",
+    "Ingestion Retrieval.md",
+    "Building A Generative AI Platform.md",
+    "Img/rag_guardrails.png",
     "Semantic_caching.md",
     "Text_Embedding.md",
     "Transformation from Single Query to Multi Query.md",
@@ -158,34 +174,13 @@
     "Improving Indexed Data Quality.md",
     "Knowledge Distillation (KD).md",
     "BD_Vector/Vector Index.md",
-    "BD_Vector/Vector Database.md",
     "BD_Vector",
-    "LlamaIndex/Combining Langchain & LIamaIndex.md",
-    "Categorize_an_Image.md",
-    "Azure_Cognitive_Services.md",
-    "Automated_Machine_Learning.md",
-    "Augmentation.md",
-    "AUC.md",
-    "Anomaly Detection in Microsoft Azure.md",
-    "Anomaly Detection.md",
-    "AI frameworks.md",
-    "Accuracy.md",
-    "LangChain/LangChain vs LIamaIndex.md",
     "LlamaIndex",
-    "LangChain/Building Q&A LangChain.md",
-    "Overfitting.md",
-    "Chunking.md",
-    "Cases_for_Conversational_AI.md",
     "Img/Gen_AI.png",
     "Img/Advanced_RAG.png",
     "Img/Self_Learning_LLMs.png",
     "Img/Modular_RAG_Framework.png",
     "Img/Advanced_RAG_Tecniques.png",
-    "Img/Embedding_Models_RAG.png",
-    "Img/Developing_LLM.png",
-    "Img/Semantic_Search.png",
-    "Img/Knowledge_Graph_RAG_Single_Store.png",
-    "Img/Two_Stage_Retrieval_System.png",
     "ML",
     "FineTuning",
     "LangChain",

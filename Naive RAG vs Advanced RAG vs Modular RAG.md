@@ -1,0 +1,1 @@
+![[naive_rag_vs_advanced_vs_modular.png]]

@@ -1,0 +1,2 @@
+![[fluxo_rag.png]]
+
