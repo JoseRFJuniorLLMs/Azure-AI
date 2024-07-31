@@ -11,8 +11,12 @@
             "id": "7d290bbf0604d4bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Accuracy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Img/rag_guardrails.png",
+                "file": "Accuracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Img/rag_guardrails.png",
+                "file": "Accuracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Img/rag_guardrails.png"
+                "file": "Accuracy.md"
               }
             }
           }
@@ -144,6 +148,13 @@
   },
   "active": "fbb748057362cd65",
   "lastOpenFiles": [
+    "AI frameworks.md",
+    "Accuracy.md",
+    "Augmentation.md",
+    "AUC.md",
+    "Anomaly Detection in Microsoft Azure.md",
+    "Anomaly Detection.md",
+    "Img/rag_guardrails.png",
     "Img/basic_model.png",
     "Img/naive_rag_vs_advanced_vs_modular.png",
     "Img/fluxo_rag.png",
@@ -152,7 +163,6 @@
     "Query Guardrails.md",
     "Reduces Training Time.md",
     "Resources_created_with_QnA_Maker_Service.md",
-    "Accuracy.md",
     "Rerank.md",
     "LLMs/Components_of_an_LLMs.md",
     "LLMs/Agent_LLMs_Calls.md",
@@ -163,17 +173,12 @@
     "Developing an LLM.md",
     "Ingestion Retrieval.md",
     "Building A Generative AI Platform.md",
-    "Img/rag_guardrails.png",
     "Semantic_caching.md",
     "Text_Embedding.md",
     "Transformation from Single Query to Multi Query.md",
     "Translation.md",
     "Translation Service.md",
     "Unstructured Data.md",
-    "Uses of face detection and analysis.md",
-    "Improving Indexed Data Quality.md",
-    "Knowledge Distillation (KD).md",
-    "BD_Vector/Vector Index.md",
     "BD_Vector",
     "LlamaIndex",
     "Img/Gen_AI.png",
