@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "8a895b84b2be7846",
+        "id": "7421ac1e4b349e30",
         "type": "tabs",
         "children": [
           {
-            "id": "7d290bbf0604d4bd",
+            "id": "3c54b0ba0a934c3f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Img/database.png"
+              }
+            }
+          },
+          {
+            "id": "664d293b78aae80b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accuracy.md",
+                "file": "Response_Guardrails.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 358.5
   },
   "right": {
     "id": "5612a97ef8df680b",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accuracy.md",
+                "file": "Response_Guardrails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accuracy.md",
+                "file": "Response_Guardrails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accuracy.md"
+                "file": "Response_Guardrails.md"
               }
             }
           }
@@ -146,10 +157,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbb748057362cd65",
+  "active": "664d293b78aae80b",
   "lastOpenFiles": [
-    "AI frameworks.md",
+    "Describe an Image.md",
+    "RAG/Chunking_RAG.png",
+    "Img/database.png",
+    "Img/semantic_entropy.png",
+    "Img/XGBoost.png",
+    "XGBoost Hyperparameters.md",
+    "Tag_visual_features.md",
+    "Sematic Entropy.md",
+    "Database.md",
+    "Chunking_RAG_Applications.md",
     "Accuracy.md",
+    "AI frameworks.md",
     "Augmentation.md",
     "AUC.md",
     "Anomaly Detection in Microsoft Azure.md",
@@ -173,19 +194,9 @@
     "Developing an LLM.md",
     "Ingestion Retrieval.md",
     "Building A Generative AI Platform.md",
-    "Semantic_caching.md",
-    "Text_Embedding.md",
-    "Transformation from Single Query to Multi Query.md",
-    "Translation.md",
-    "Translation Service.md",
-    "Unstructured Data.md",
     "BD_Vector",
     "LlamaIndex",
     "Img/Gen_AI.png",
-    "Img/Advanced_RAG.png",
-    "Img/Self_Learning_LLMs.png",
-    "Img/Modular_RAG_Framework.png",
-    "Img/Advanced_RAG_Tecniques.png",
     "ML",
     "FineTuning",
     "LangChain",
