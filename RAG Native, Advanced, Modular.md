@@ -1,0 +1,1 @@
+![[rag_advanced_modular.png]]

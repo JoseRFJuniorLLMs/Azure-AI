@@ -4,33 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "7421ac1e4b349e30",
+        "id": "c753d4022a90ce1a",
         "type": "tabs",
         "children": [
           {
-            "id": "3c54b0ba0a934c3f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Img/database.png"
-              }
-            }
-          },
-          {
-            "id": "664d293b78aae80b",
+            "id": "6463ec3a5ca1feba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Response_Guardrails.md",
+                "file": "Modelagem de Linguagem Causal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ea77571f7df743a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modelagem de Linguagem Mascarada.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc7dea795bdf0ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camadas de Atenção.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e68fe2bbc0c8bf2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimizing RAG.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Response_Guardrails.md",
+                "file": "Optimizing RAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Response_Guardrails.md",
+                "file": "Optimizing RAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Response_Guardrails.md"
+                "file": "Optimizing RAG.md"
               }
             }
           }
@@ -157,11 +183,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "664d293b78aae80b",
+  "active": "e68fe2bbc0c8bf2e",
   "lastOpenFiles": [
+    "Pasted image 20240803135635.png",
+    "Camadas de Atenção.md",
+    "Optimizing RAG.md",
+    "Modelagem de Linguagem Mascarada.md",
+    "Modelagem de Linguagem Causal.md",
+    "Retrieval.md",
+    "Categorize_an_Image.md",
+    "Img/RAG_custom_chatbot.png",
+    "Img/Survey_Mixture_Experts.png",
+    "Img/RAG_Native_Advanced_Modular.gif",
+    "Img/Encoder_Decoder.png",
+    "Img/rag_advanced_modular.png",
+    "RAG Native, Advanced, Modular.md",
+    "Custom RAG Chatbot.md",
+    "Encoder Decoder.md",
+    "Mixture of Experts.md",
+    "ML Scientist Roadmap.md",
+    "Anomaly Detection in Microsoft Azure.md",
+    "Anomaly Detection.md",
+    "AI frameworks.md",
+    "Accuracy.md",
+    "Img/database.png",
+    "Response_Guardrails.md",
     "Describe an Image.md",
     "RAG/Chunking_RAG.png",
-    "Img/database.png",
     "Img/semantic_entropy.png",
     "Img/XGBoost.png",
     "XGBoost Hyperparameters.md",
@@ -169,34 +217,12 @@
     "Sematic Entropy.md",
     "Database.md",
     "Chunking_RAG_Applications.md",
-    "Accuracy.md",
-    "AI frameworks.md",
     "Augmentation.md",
     "AUC.md",
-    "Anomaly Detection in Microsoft Azure.md",
-    "Anomaly Detection.md",
     "Img/rag_guardrails.png",
-    "Img/basic_model.png",
-    "Img/naive_rag_vs_advanced_vs_modular.png",
-    "Img/fluxo_rag.png",
-    "Img/developer_llms.png",
     "Glossary/AI-900.md",
-    "Query Guardrails.md",
-    "Reduces Training Time.md",
-    "Resources_created_with_QnA_Maker_Service.md",
-    "Rerank.md",
-    "LLMs/Components_of_an_LLMs.md",
-    "LLMs/Agent_LLMs_Calls.md",
-    "LLMs/Developing_an_LLMs.md",
-    "NMT.md",
-    "NLP/NLP.md",
-    "Naive RAG vs Advanced RAG vs Modular RAG.md",
-    "Developing an LLM.md",
-    "Ingestion Retrieval.md",
-    "Building A Generative AI Platform.md",
     "BD_Vector",
     "LlamaIndex",
-    "Img/Gen_AI.png",
     "ML",
     "FineTuning",
     "LangChain",

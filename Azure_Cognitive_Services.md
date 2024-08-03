@@ -1,4 +1,4 @@
-Microsoft Cognitive Services offers pre-built [[ML]] models for the most common uses cases. 
+Microsoft Cognitive Services offers pre-built [[ML/ML]] models for the most common uses cases. 
 What is Azure Cognitive Services 
 ➢ Pre-build AI algorithms
 ➢ Easy to consume 
