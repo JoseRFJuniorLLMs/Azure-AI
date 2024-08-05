@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "faa84a79600d8f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BRAG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimizing RAG.md",
+                "file": "BRAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimizing RAG.md",
+                "file": "BRAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimizing RAG.md"
+                "file": "BRAG.md"
               }
             }
           }
@@ -183,11 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e68fe2bbc0c8bf2e",
+  "active": "faa84a79600d8f1b",
   "lastOpenFiles": [
+    "Pasted image 20240805144647.png",
+    "Optimizing RAG.md",
+    "BRAG.md",
     "Pasted image 20240803135635.png",
     "Camadas de Atenção.md",
-    "Optimizing RAG.md",
     "Modelagem de Linguagem Mascarada.md",
     "Modelagem de Linguagem Causal.md",
     "Retrieval.md",
@@ -219,8 +233,6 @@
     "Chunking_RAG_Applications.md",
     "Augmentation.md",
     "AUC.md",
-    "Img/rag_guardrails.png",
-    "Glossary/AI-900.md",
     "BD_Vector",
     "LlamaIndex",
     "ML",
