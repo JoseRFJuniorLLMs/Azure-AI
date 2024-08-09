@@ -1,1 +1,1 @@
-![[Pasted image 20240805190947.png]]
+![[TRANSFORMER_ENCODE_DECODE.png]]

@@ -1,0 +1,3 @@
+A **Fala de IA do Azure** fornece funcionalidades de conversão de fala em texto e de texto em fala por meio de reconhecimento de fala e síntese. Você pode usar modelos de serviço para Fala predefinidos e personalizados para diversas tarefas, desde transcrever áudio em texto com alta precisão, identificar alto-falantes em conversas, criar vozes personalizadas e muito mais.
+
+[Entender a Análise de Texto - Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-text-with-text-analytics-service/2-understand-text-analytics)

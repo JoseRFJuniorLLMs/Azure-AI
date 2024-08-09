@@ -1,0 +1,3 @@
+A mineração de conhecimento é uma carga de trabalho de IA (inteligência artificial) que tem a finalidade de tornar grandes quantidades de dados pesquisáveis. Embora outras cargas de trabalho aproveitem a indexação para obter acesso mais rápido a grandes quantidades de dados, essa não é sua principal finalidade.
+
+[Entender a mineração de conhecimento – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/get-started-ai-fundamentals/6-understand-knowledge-mining)

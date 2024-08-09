@@ -1,0 +1,3 @@
+As cargas de trabalho de mineração de dados se concentram principalmente na pesquisa e indexação de dados. O serviço de pesquisa visual computacional pode ser usado para extrair informações de imagens, mas não é uma solução de pesquisa e indexação. A IA de conversa faz parte do NLP (processamento de linguagem natural) e facilita a criação de chatbots. A segmentação semântica fornece a capacidade de classificar pixels individuais em uma imagem, dependendo do objeto que eles representam.
+
+[Microsoft Azure AI Fundamentals: Explorar a mineração de conhecimento – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/paths/explore-fundamentals-of-knowledge-mining/)

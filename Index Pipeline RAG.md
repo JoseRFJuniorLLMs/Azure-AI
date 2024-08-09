@@ -1,5 +1,5 @@
-![[Pasted image 20240807153832.png]]
+![[KNOWLEDGE_RAG.png]]
 
-![[Pasted image 20240807153914.png]]
+![[RAG2.png]]
 
-![[Pasted image 20240807153930.png]]
+![[RAG1.png]]

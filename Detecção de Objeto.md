@@ -1,0 +1,3 @@
+A detecção de objetos fornece a capacidade de gerar caixas delimitadoras que identificam os locais de diferentes tipos de veículos em uma imagem. As outras opções de resposta também processam imagens, mas seus resultados são diferentes.
+
+[Entender a pesquisa visual computacional – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/get-started-ai-fundamentals/4-understand-computer-vision)

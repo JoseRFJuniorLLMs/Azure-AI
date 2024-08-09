@@ -1,0 +1,5 @@
+A imparcialidade envolve avaliar e atenuar o viés introduzido pelos recursos de um modelo. A privacidade destina-se a garantir que as disposições de privacidade sejam incluídas em soluções de IA. A transparência fornece clareza sobre a finalidade das soluções de IA, a maneira como elas funcionam, bem como as limitações dela. A responsabilidade se concentra em garantir que as soluções de IA atendam aos padrões éticos e legais claramente definidos.
+
+A imparcialidade destina-se a garantir que os modelos de IA não incorporem involuntariamente um viés com base em critérios como gênero ou etnia. A transparência não se aplica nesse caso, pois os bancos geralmente usam seus modelos proprietários ao processar aprovações de empréstimos. A inclusão também está fora do escopo, já que nem todos estão qualificados para um empréstimo. A segurança não é uma consideração primária, pois não há ameaça direta à vida ou à saúde humana neste caso.
+
+[Entender a IA responsável – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/get-started-ai-fundamentals/8-understand-responsible-ai)

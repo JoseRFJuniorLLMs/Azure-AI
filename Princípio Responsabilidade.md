@@ -1,0 +1,3 @@
+O princípio da responsabilidade afirma que os sistemas de IA são projetados para atender a quaisquer padrões éticos e legais aplicáveis. O sistema deve ser projetado para garantir que a privacidade dos dados de saúde seja de maior importância, incluindo a anonimização de dados quando aplicável. O princípio da imparcialidade é aplicado aos sistemas de IA para garantir que os usuários dos sistemas sejam tratados de forma justa. O princípio da inclusão afirma que os sistemas de IA devem capacitar as pessoas de maneira positiva e envolvente.
+
+[Entender a IA responsável – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/get-started-ai-fundamentals/8-understand-responsible-ai)
