@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "f95c531c0753e057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CrewAI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ea70da3d5bac0e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attention Time Line.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1350ed7af5725b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ef913f02fd152902",
             "type": "leaf",
             "state": {
@@ -31,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes Neurais.md",
+                "file": "Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes Neurais.md",
+                "file": "Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes Neurais.md"
+                "file": "Neural Networks.md"
               }
             }
           }
@@ -158,10 +195,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12d508c101b92b81",
+  "active": "c1350ed7af5725b6",
   "lastOpenFiles": [
-    "TransNAR.md",
+    "Pasted image 20240810123115.png",
+    "Attention Time Line.md",
+    "Neural Networks.md",
+    "Pasted image 20240809221043.png",
+    "CrewAI.md",
+    "Pasted image 20240809203521.png",
+    "Pasted image 20240809203510.png",
+    "Pasted image 20240809203502.png",
+    "Pasted image 20240809203432.png",
     "Redes Neurais.md",
+    "TransNAR.md",
     "NAR.md",
     "Bias.md",
     "GT.md",
@@ -182,10 +228,6 @@
     "RoBERTa.md",
     "BERT.md",
     "Transformer.md",
-    "ResNets.md",
-    "U-Net.md",
-    "GRUs.md",
-    "LSTM.md",
     "Pasted image 20240808191148.png",
     "Pasted image 20240808185445.png",
     "Pasted image 20240808183247.png",
@@ -195,11 +237,6 @@
     "books/LLMs_arquiteturas.pdf.crdownload",
     "Img/ai_universe.gif",
     "Pasted image 20240808124936.png",
-    "Img/llms_modulo.png",
-    "Img/TransNAR.png",
-    "mlAlgorithms.png",
-    "Img/graphragMS.gif",
-    "Img/agenteGen.jpg",
     "BD_Vector",
     "LlamaIndex",
     "ML",
