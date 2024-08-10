@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes Neurais.md",
+                "file": "RedeNeural/Redes Neurais.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overlap.md",
+                "file": "Attention Time Line.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overlap.md",
+                "file": "Attention Time Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overlap.md",
+                "file": "Attention Time Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overlap.md"
+                "file": "Attention Time Line.md"
               }
             }
           }
@@ -161,33 +161,33 @@
   },
   "active": "688cc763398b91d1",
   "lastOpenFiles": [
-    "Specific_Domains.md",
-    "Img/mlAlgorithms.png",
-    "Overlap.md",
-    "RedeNeural/ResNets.md",
-    "NMT.md",
-    "RedeNeural/MLP.md",
-    "KQL.md",
-    "RedeNeural/GRUs.md",
-    "RedeNeural/GNNs.md",
-    "FP32.md",
-    "RedeNeural/NAR.md",
-    "Redes Neurais.md",
-    "RedeNeural/GT.md",
-    "Transformer.md",
-    "Translation.md",
-    "Translation Service.md",
+    "Neural Networks.md",
+    "Layer.md",
     "Sematic Entropy.md",
-    "RAG/Chunking_RAG_Applications.md",
-    "RAG/RAG 1.md",
-    "RAG/RAG Vector DBs.md",
-    "RedeNeural/RoBERTa.md",
+    "Transformer.md",
+    "Overlap.md",
+    "Metric classification.md",
+    "Query Guardrails.md",
+    "Bias.md",
+    "RedeNeural/Redes Neurais.md",
+    "RedeNeural/RNNs.md",
     "RedeNeural/RNP.md",
+    "RedeNeural/RoBERTa.md",
     "RedeNeural/TransNAR.md",
     "RedeNeural/U-Net.md",
+    "RedeNeural/NAR.md",
+    "RedeNeural/MLP.md",
+    "RedeNeural/LSTMs.md",
+    "RedeNeural/LSTM.md",
+    "RedeNeural/LLMs.md",
+    "RedeNeural/GT.md",
+    "RedeNeural/GRUs.md",
+    "RedeNeural/GNNs.md",
     "RedeNeural/GAN.md",
-    "Detect Faces.md",
-    "AUC.md",
+    "RedeNeural/CNNs.md",
+    "Specific_Domains.md",
+    "Img/mlAlgorithms.png",
+    "RedeNeural/ResNets.md",
     "ComputerVision",
     "RedeNeural",
     "Img/Pasted image 20240808124936.png",
