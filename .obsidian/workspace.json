@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "edcd4479d223a957",
+        "id": "98416000bc4c24d3",
         "type": "tabs",
         "children": [
           {
-            "id": "12d508c101b92b81",
+            "id": "659fd76de4e06da0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,55 +20,19 @@
             }
           },
           {
-            "id": "f95c531c0753e057",
+            "id": "688cc763398b91d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CrewAI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ea70da3d5bac0e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attention Time Line.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1350ed7af5725b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neural Networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef913f02fd152902",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NAR.md",
+                "file": "Overlap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 359.5
   },
   "right": {
     "id": "5612a97ef8df680b",
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neural Networks.md",
+                "file": "Overlap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neural Networks.md",
+                "file": "Overlap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neural Networks.md"
+                "file": "Overlap.md"
               }
             }
           }
@@ -195,53 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1350ed7af5725b6",
+  "active": "688cc763398b91d1",
   "lastOpenFiles": [
-    "Pasted image 20240810123115.png",
-    "Attention Time Line.md",
-    "Neural Networks.md",
-    "Pasted image 20240809221043.png",
-    "CrewAI.md",
-    "Pasted image 20240809203521.png",
-    "Pasted image 20240809203510.png",
-    "Pasted image 20240809203502.png",
-    "Pasted image 20240809203432.png",
-    "Redes Neurais.md",
-    "TransNAR.md",
-    "NAR.md",
-    "Bias.md",
-    "GT.md",
-    "GNNs.md",
-    "GAN.md",
-    "KQL.md",
+    "Specific_Domains.md",
+    "Img/mlAlgorithms.png",
+    "Overlap.md",
+    "RedeNeural/ResNets.md",
     "NMT.md",
-    "Bot_Framework.md",
-    "Glossary/AI-900.md",
-    "Princípio Responsabilidade.md",
-    "Algoritmos de classificação.md",
-    "Algoritmo de Clustering.md",
-    "Regressão Linear Múltipla.md",
-    "AI-900.md",
-    "RAG Vector DBs.md",
-    "Database DataSets.md",
-    "DistilBERT.md",
-    "RoBERTa.md",
-    "BERT.md",
+    "RedeNeural/MLP.md",
+    "KQL.md",
+    "RedeNeural/GRUs.md",
+    "RedeNeural/GNNs.md",
+    "FP32.md",
+    "RedeNeural/NAR.md",
+    "Redes Neurais.md",
+    "RedeNeural/GT.md",
     "Transformer.md",
-    "Pasted image 20240808191148.png",
-    "Pasted image 20240808185445.png",
-    "Pasted image 20240808183247.png",
+    "Translation.md",
+    "Translation Service.md",
+    "Sematic Entropy.md",
+    "RAG/Chunking_RAG_Applications.md",
+    "RAG/RAG 1.md",
+    "RAG/RAG Vector DBs.md",
+    "RedeNeural/RoBERTa.md",
+    "RedeNeural/RNP.md",
+    "RedeNeural/TransNAR.md",
+    "RedeNeural/U-Net.md",
+    "RedeNeural/GAN.md",
+    "Detect Faces.md",
+    "AUC.md",
+    "ComputerVision",
+    "RedeNeural",
+    "Img/Pasted image 20240808124936.png",
+    "AI-9000",
+    "Img/Pasted image 20240810123630.png",
+    "Img/Pasted image 20240810123115.png",
+    "Img/Pasted image 20240809221043.png",
+    "Img/Pasted image 20240809203521.png",
+    "Img/Pasted image 20240809203510.png",
+    "Img/Pasted image 20240809203502.png",
+    "Img/Pasted image 20240809203432.png",
+    "Img/Pasted image 20240808191148.png",
     "books/2_Ficha Cadastral.pdf",
     "books/2_Ficha Cadastral.pdf.crdownload",
     "books/LLMs_arquiteturas.pdf",
     "books/LLMs_arquiteturas.pdf.crdownload",
-    "Img/ai_universe.gif",
-    "Pasted image 20240808124936.png",
     "BD_Vector",
     "LlamaIndex",
-    "ML",
-    "FineTuning",
-    "LangChain",
-    "LLMs"
+    "ML"
   ]
 }

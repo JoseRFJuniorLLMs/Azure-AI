@@ -1,6 +1,6 @@
 ![[TransNAR.png]] TransNAR: Augmenting Transformers with a pre-trained GNN-based NAR
 
-**Augmenting [[LLMs]] com algoritmo de razão**: A ideia é aumentar as capacidades de um grande modelo de linguagem ([[LLMs]])
+**Augmenting [[RedeNeural/LLMs]] com algoritmo de razão**: A ideia é aumentar as capacidades de um grande modelo de linguagem ([[RedeNeural/LLMs]])
 adicionando uma camada de raciocínio algorítmico.
 
 **Neural Algorithmic Reasoner (NAR)**: A NAR é um módulo que utiliza uma rede neural para executar cálculos algorítmicos em
