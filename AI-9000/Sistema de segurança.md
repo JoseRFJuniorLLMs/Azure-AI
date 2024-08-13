@@ -1,0 +1,3 @@
+A camada de sistema de segurança inclui configurações e funcionalidades no nível da plataforma que ajudam a atenuar danos. Por exemplo, o serviço OpenAI do Azure inclui suporte para filtros de conteúdo que aplicam critérios para suprimir prompts e respostas com base na classificação de conteúdo em quatro níveis de gravidade (seguro, baixo, médio e alto) para quatro categorias de possíveis danos (ódio, sexo, violência e automutilação).
+
+[Mitigar possíveis danos – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/responsible-generative-ai/5-mitigate-harms)

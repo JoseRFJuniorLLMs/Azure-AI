@@ -1,3 +1,7 @@
+---
+tags:
+  - AI-900
+---
 A Computer Vision solution that trains an AI model to identify and assign part of an image to a category.
 
 [[Product identification]] - performing visual searches for specific products in online searches or even, in-store using a mobile device. • 

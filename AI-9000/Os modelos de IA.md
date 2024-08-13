@@ -1,0 +1,3 @@
+Os modelos de IA generativa oferecem a capacidade de gerar imagens com base em um prompt usando modelos [[DALL-E]], como gerar imagens a partir de linguagem natural. Os outros recursos de IA são usados em diferentes contextos para alcançar outros objetivos.
+
+[O que é a IA generativa? ─ Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/fundamentals-generative-ai/2-what-is-generative-ai)

@@ -21,7 +21,7 @@ No contexto de Modelos de Linguagem de Grande Escala ([[RedeNeural/LLMs|LLMs]]) 
 
 ### Importância de Considerar o Overlap:
 
-- **Generalização:** Um overlap significativo entre os conjuntos de treinamento e teste pode comprometer a capacidade do modelo de generalizar para dados não vistos, o que é um dos principais objetivos em NLP.
+- **Generalização:** Um overlap significativo entre os conjuntos de treinamento e teste pode comprometer a capacidade do modelo de generalizar para dados não vistos, o que é um dos principais objetivos em [[NLP]].
 - **Avaliação Justa:** Minimizar o overlap entre os dados de treinamento e teste é crucial para obter uma avaliação justa do desempenho de um modelo.
 - **Diversidade dos Dados:** A falta de overlap, ou seja, a diversidade dos dados, é importante para garantir que o modelo seja exposto a uma variedade ampla de contextos, melhorando sua robustez e capacidade de adaptação.
 

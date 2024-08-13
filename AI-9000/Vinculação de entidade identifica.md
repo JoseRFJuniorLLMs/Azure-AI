@@ -1,0 +1,5 @@
+A vinculação de entidade identifica e desambigua a identidade das entidades encontradas em um texto. A extração de frase-chave não é usada para extrair entidades e, em vez disso, é usada para extrair frases-chave para identificar os principais conceitos em um texto. O reconhecimento de entidade nomeada não pode fornecer um link para cada entidade exibir mais informações. A tradução de texto faz parte do [[serviço Tradutor de IA do Azure]].
+
+[O que é a vinculação de entidade no Serviço Cognitivo do Azure para Linguagem? - Serviços Cognitivos do Azure | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/entity-linking/overview)
+
+[Analisar texto com o serviço idioma – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-text-with-text-analytics-service/)

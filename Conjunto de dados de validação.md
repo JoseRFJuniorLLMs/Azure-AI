@@ -1,0 +1,3 @@
+O conjunto de dados de validação é um exemplo de dados retidos de um conjunto de dados de treinamento. Em seguida, ele é usado para avaliar o desempenho do modelo treinado. A limpeza de dados ausentes é usada para detectar valores ausentes e executar operações para corrigir os dados ou criar novos valores. A engenharia de recursos faz parte da preparação do conjunto de dados e dos processos de transformação de dados relacionados. Resumir os dados é usado para fornecer estatísticas resumidas, como a média ou a contagem de valores distintos em uma coluna.
+
+[Regressão – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/fundamentals-machine-learning/4-regression)

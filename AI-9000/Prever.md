@@ -1,0 +1,3 @@
+Temperatura do tempo e dia da semana ou fim de semana são recursos que fornecem uma temperatura do tempo para um determinado dia e um valor com base em se o dia está em um fim de semana ou dia da semana. Essas são variáveis de entrada para o modelo para ajudar a prever os rótulos de níveis de bateria de patinete eletrônico, número de contratações e distância percorrida. Os níveis de bateria de patinete eletrônico, o número de contratações e a distância percorrida são rótulos numéricos que você está tentando prever por meio do modelo de machine learning.
+
+[Princípios de aprendizado de máquina – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/fundamentals-machine-learning/)

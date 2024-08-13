@@ -1,3 +1,7 @@
+---
+tags:
+  - RedesNeurais
+---
 ![[TransNAR.png]] TransNAR: Augmenting Transformers with a pre-trained GNN-based NAR
 
 **Augmenting [[RedeNeural/LLMs]] com algoritmo de razão**: A ideia é aumentar as capacidades de um grande modelo de linguagem ([[RedeNeural/LLMs]])

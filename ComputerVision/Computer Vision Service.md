@@ -1,3 +1,7 @@
+---
+tags:
+  - AI-900
+---
 Azure's Computer Vision service gives you access to advanced algorithms that process images and return information based on the visual features you're interested in.
 
 • [[Tag_visual_features]] • [[Detect Objects]] • [[Detect Brands ]]• [[Categorize_an_Image]]

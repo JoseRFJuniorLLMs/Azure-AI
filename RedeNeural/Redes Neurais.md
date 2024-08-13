@@ -1,3 +1,7 @@
+---
+tags:
+  - RedesNeurais
+---
 
 **1. Redes Neurais Perceptron ([[RNP]])**
 
@@ -82,4 +86,4 @@ eficiente.
 
 **16. Neural Algorithmic Reasoner ([[TransNAR]])**
 
-* Transformer + NAR
+* [[Transformer]] + [[NAR]]

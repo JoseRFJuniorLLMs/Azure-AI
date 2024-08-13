@@ -1,3 +1,7 @@
+---
+tags:
+  - AI-900
+---
 A service that can detect text on forms and, in some cases, generate key-value pairs.
 
 • We can use optical character recognition ([[OCR]]) technologies to extract the text contents from the digitized documents. 

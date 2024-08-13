@@ -1,0 +1,3 @@
+A marcação envolve associar uma imagem a metadados que resumem os atributos da imagem. A detecção de tipos de imagem envolve a identificação de imagens de clip-art ou desenhos de linha. A organização de conteúdo envolve identificar pessoas ou objetos em fotos e organizá-los com base na identificação. A categorização envolve associar o conteúdo de uma imagem a um conjunto limitado de categorias.
+
+[Introdução à análise de imagem no Azure – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-images-computer-vision/2-image-analysis-azure)

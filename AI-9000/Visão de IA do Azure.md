@@ -1,0 +1,3 @@
+Ao categorizar uma imagem, o serviço da Visão de IA do Azure dá suporte a dois modelos de domínio especializados: celebridades e pontos de referência. Os tipos de imagem são uma funcionalidade adicional do serviço de pesquisa visual computacional, permitindo que ele detecte o tipo de imagem, como uma imagem de clip-art ou um desenho de linha. As categorias people_ e people_group têm suporte ao executar a classificação de imagem.
+
+[Introdução à análise de imagem no Azure – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-images-computer-vision/2-image-analysis-azure)

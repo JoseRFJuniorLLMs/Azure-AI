@@ -1,3 +1,7 @@
+---
+tags:
+  - AI-900
+---
 [[Text Analytics]] - to analyze text documents and extract key phrases, detect entities (such as places, dates, and people), and evaluate sentiment (how positive or negative a document is) 
 [[Translator Text ]]- to translate text between more than 60 languages 
 [[Speech]] - to recognize and synthesize speech, and to translate spoken languages 

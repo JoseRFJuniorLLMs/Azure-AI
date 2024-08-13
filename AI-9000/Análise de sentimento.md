@@ -1,0 +1,5 @@
+A análise de sentimento fornece rótulos de sentimento, como negativo, neutro e positivo, com base em uma pontuação de confiança da análise de texto. Isso o torna adequado para entender o sentimento do usuário para revisões de produtos. Os recursos de reconhecimento de entidade nomeada, extração de frase-chave e detecção de idioma não podem executar análise de sentimento para revisões de produto.
+
+[Analisar texto com o serviço idioma – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-text-with-text-analytics-service/)
+
+[O que é análise de sentimento e mineração de opiniões no Serviço Cognitivo do Azure para Linguagem? - Serviços Cognitivos do Azure | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/sentiment-opinion-mining/overview)

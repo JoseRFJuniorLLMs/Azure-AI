@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "98416000bc4c24d3",
+        "id": "5e919b53eecf53ef",
         "type": "tabs",
         "children": [
           {
-            "id": "659fd76de4e06da0",
+            "id": "808c4cc071739ca3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RedeNeural/Redes Neurais.md",
+                "file": "RedeNeural/NAR.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "688cc763398b91d1",
+            "id": "80e1b276df26c2aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attention Time Line.md",
+                "file": "RAG - Prod.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attention Time Line.md",
+                "file": "RAG - Prod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attention Time Line.md",
+                "file": "RAG - Prod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attention Time Line.md"
+                "file": "RAG - Prod.md"
               }
             }
           }
@@ -159,35 +159,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "688cc763398b91d1",
+  "active": "80e1b276df26c2aa",
   "lastOpenFiles": [
-    "Neural Networks.md",
-    "Layer.md",
-    "Sematic Entropy.md",
-    "Transformer.md",
-    "Overlap.md",
-    "Metric classification.md",
-    "Query Guardrails.md",
-    "Bias.md",
-    "RedeNeural/Redes Neurais.md",
-    "RedeNeural/RNNs.md",
-    "RedeNeural/RNP.md",
-    "RedeNeural/RoBERTa.md",
-    "RedeNeural/TransNAR.md",
-    "RedeNeural/U-Net.md",
+    "Pasted image 20240813205219.png",
     "RedeNeural/NAR.md",
-    "RedeNeural/MLP.md",
-    "RedeNeural/LSTMs.md",
-    "RedeNeural/LSTM.md",
-    "RedeNeural/LLMs.md",
-    "RedeNeural/GT.md",
-    "RedeNeural/GRUs.md",
-    "RedeNeural/GNNs.md",
-    "RedeNeural/GAN.md",
-    "RedeNeural/CNNs.md",
-    "Specific_Domains.md",
+    "RAG - Prod.md",
+    "RedeNeural/TransNAR.md",
+    "Describe an Image.md",
+    "RedeNeural/Redes Neurais.md",
+    "RAG/RAG implementing.md",
+    "AI-9000/OCR (reconhecimento óptico de caracteres) e análise espacial.md",
+    "Overlap.md",
+    "AI-9000/OCR.md",
+    "Glossary/Image Classification.md",
+    "NLP/Service_used_for_NLP_in_Microsoft_Azure.md",
+    "Accuracy.md",
+    "NLP/NLP.md",
+    "ComputerVision/Computer Vision in Microsoft Azure.md",
+    "Form Recognizer.md",
+    "ComputerVision/Computer Vision Service.md",
+    "Glossary/Form Recognizer Service.md",
+    "AI-9000/Optical Character Recognition.md",
+    "Bot_Framework.md",
+    "Metric classification.md",
+    "Glossary/Anomaly Detection Workload.md",
+    "Glossary/AI-900.md",
+    "Glossary/Accountability.md",
+    "Glossary/AI.md",
+    "AI-9000/Os modelos de linguagem natural do OpenAI do Azure.md",
+    "Img/Pasted image 20240810152637.png",
+    "Img/Pasted image 20240810153018.png",
+    "Img/Pasted image 20240811102534.png",
     "Img/mlAlgorithms.png",
-    "RedeNeural/ResNets.md",
     "ComputerVision",
     "RedeNeural",
     "Img/Pasted image 20240808124936.png",
@@ -197,9 +200,6 @@
     "Img/Pasted image 20240809221043.png",
     "Img/Pasted image 20240809203521.png",
     "Img/Pasted image 20240809203510.png",
-    "Img/Pasted image 20240809203502.png",
-    "Img/Pasted image 20240809203432.png",
-    "Img/Pasted image 20240808191148.png",
     "books/2_Ficha Cadastral.pdf",
     "books/2_Ficha Cadastral.pdf.crdownload",
     "books/LLMs_arquiteturas.pdf",

@@ -1,0 +1,3 @@
+As mensagens do sistema devem ser usadas para definir o contexto do modelo, descrevendo as expectativas. Com base nas mensagens do sistema, o modelo sabe como responder aos prompts. As outras técnicas também são usadas em modelos de [[IA generativa]], mas para outros casos de uso.
+
+[Aprimorar as respostas de IA generativa com a engenharia de prompt – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/fundamentals-generative-ai/6-writing-prompts)

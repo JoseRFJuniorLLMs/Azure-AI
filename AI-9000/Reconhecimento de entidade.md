@@ -1,0 +1,3 @@
+O reconhecimento de entidade inclui a funcionalidade de vinculação de entidade que retorna links para sites externos para desambiguar termos (entidades) identificados em um texto. A extração de frase-chave avalia o texto de um documento e identifica seus principais pontos de discussão. A detecção de idioma da Linguagem de IA do Azure identifica o idioma no qual o texto é escrito. A análise de sentimento avalia o texto e retorna pontuações de sentimento e rótulos para cada frase.
+
+[Introdução à análise de texto – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-text-with-text-analytics-service/2-get-started-azure)

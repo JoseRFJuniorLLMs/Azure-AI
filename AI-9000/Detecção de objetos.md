@@ -1,0 +1,12 @@
+A detecção de objetos fornece a capacidade de gerar caixas delimitadoras que identificam os locais de diferentes tipos de objetos em uma imagem, incluindo as coordenadas da caixa delimitadora, designando o local do objeto na imagem. A segmentação semântica fornece a capacidade de classificar pixels individuais em uma imagem. A classificação de imagem classifica as imagens com base em seu conteúdo. A análise de imagem extrai informações da imagem para rotulá-la com marcas ou legendas.
+
+A detecção de objetos pode ser usada para rastrear animais de gado, como vacas, para apoiar sua segurança e bem-estar. Por exemplo, um fazendeiro pode rastrear se um determinado animal não tem mobilidade. A análise de sentimento é usada para retornar um valor numérico com base na análise de um texto. O acesso dos funcionários a um edifício seguro pode ser obtido usando o reconhecimento facial. Extrair texto de manuscritos é um exemplo de uma solução de pesquisa visual computacional que usa o OCR (reconhecimento óptico de caracteres).
+
+A detecção de objetos pode ser usada para avaliar imagens de monitoramento de tráfego para classificar rapidamente tipos de veículos específicos, como carro, ônibus ou ciclista. Regressão linear é um algoritmo de treinamento de machine learning para modelos de regressão de treinamento. A classificação de imagem faz parte da pesquisa visual computacional que se preocupa com o conteúdo primário de uma imagem. O OCR é usado para extrair texto e manuscrito de imagens.
+
+[Machine Learning para Pesquisa Visual Computacional - Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-images-computer-vision/2b-computer-vision-models)
+
+[Machine Learning para Pesquisa Visual Computacional - Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-images-computer-vision/2b-computer-vision-models)
+[Introdução à análise de imagem no Azure – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-images-computer-vision/2-image-analysis-azure)
+
+[Entender a pesquisa visual computacional – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/get-started-ai-fundamentals/4-understand-computer-vision)

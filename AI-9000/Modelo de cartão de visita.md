@@ -1,0 +1,5 @@
+O modelo de cartão de visita analisa e extrai informações importantes de imagens de cartão de visita e inclui extrações comuns de campo de dados, como nome e email. O modelo de fatura extrai informações importantes de faturas de vendas e inclui campos de dados comuns usados em faturas para extração. O modelo de leitura, o modelo de layout e o modelo de documento geral não identificam e extraem campos de dados comuns.
+
+[Modelos de processamento de documentos – Reconhecimento de Formulários – Serviços de IA Aplicada do Azure | Microsoft Learn](https://learn.microsoft.com/azure/applied-ai-services/form-recognizer/concept-model-overview?view=form-recog-3.0.0)
+
+[Analisar recibos com o serviço Reconhecimento de Formulários – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-receipts-form-recognizer/)

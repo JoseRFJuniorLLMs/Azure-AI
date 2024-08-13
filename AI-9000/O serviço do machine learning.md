@@ -1,0 +1,1 @@
+[[O serviço do machine learning]] é usado para projetar, implementar e implantar modelos do Machine Learning. O Serviço de Bot de IA do Azure oferece uma estrutura para desenvolver, publicar e gerenciar bots no Azure.

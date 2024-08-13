@@ -1,0 +1,3 @@
+O clustering é um tipo de aprendizado de máquina que analisa dados não rotulados para encontrar semelhanças presentes nos dados. Em seguida, agrupa (clusters) dados semelhantes. Neste exemplo, a empresa pode agrupar clientes online com base em atributos que incluem dados demográficos e comportamentos de compra. Em seguida, a empresa pode recomendar novos produtos para os grupos de clientes mais propensos a se interessar por eles. Classificação e classificação multiclasse são usadas para prever categorias de dados. A regressão é um cenário de aprendizado de máquina que é usado para prever valores numéricos.
+
+[Regressão – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/fundamentals-machine-learning/4-regression)

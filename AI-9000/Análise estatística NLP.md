@@ -1,0 +1,3 @@
+Remover palavras irrelevantes é a primeira etapa na análise estatística dos termos usados em um texto no contexto do [[NLP]]. A contagem das ocorrências de cada palavra ocorre após a remoção das palavras irrelevantes. A criação de um modelo vetorizado não faz parte da análise estatística. Ele é usado para capturar a relação semática entre palavras. Codificar palavras como recursos numéricos não faz parte da análise estatística. Ele é frequentemente usado na análise de sentimento.
+
+[Entender a Análise de Texto - Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-text-with-text-analytics-service/2-understand-text-analytics)

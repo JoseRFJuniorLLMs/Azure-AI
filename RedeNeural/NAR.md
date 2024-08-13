@@ -1,3 +1,7 @@
+---
+tags:
+  - RedesNeurais
+---
 
 **Resumo de NAR (Neural Algorithmic Reasoner)**
 

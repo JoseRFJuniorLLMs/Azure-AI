@@ -1,0 +1,9 @@
+As soluções modernas de classificação de imagem são baseadas em técnicas de aprendizado profundo. A segmentação semântica fornece a capacidade de classificar pixels individuais em uma imagem, dependendo do objeto que eles representam. Tanto a regressão linear quanto a regressão linear múltipla usam o treinamento e a validação de previsões para prever valores numéricos, portanto, eles não fazem parte das soluções de classificação de imagem.
+
+A classificação de imagem faz parte da pesquisa visual computacional e pode ser usada para avaliar imagens de uma máquina de raios-X para classificar rapidamente tipos específicos de fratura óssea. Isso ajuda a melhorar o diagnóstico e os planos de tratamento. Um modelo de classificação de imagem é treinado para facilitar a categorização das fraturas ósseas. A detecção de objetos é usada para retornar objetos identificados em uma imagem, como um gato, uma pessoa ou uma cadeira. A IA de conversa é usada para criar bots inteligentes que podem interagir com as pessoas usando linguagem natural. A detecção facial é usada para detectar a localização de rostos humanos em uma imagem.
+
+[Machine Learning para Pesquisa Visual Computacional - Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-images-computer-vision/2b-computer-vision-models)
+
+[Machine Learning para Pesquisa Visual Computacional - Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-images-computer-vision/2b-computer-vision-models)
+
+[Princípios de aprendizado de máquina – Treinamento | Microsoft Learn](https://learn.microsoft.com/training/modules/fundamentals-machine-learning/)
