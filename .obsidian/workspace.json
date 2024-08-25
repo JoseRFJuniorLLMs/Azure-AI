@@ -4,95 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5e919b53eecf53ef",
+        "id": "69a7c387a6378b02",
         "type": "tabs",
         "children": [
           {
-            "id": "808c4cc071739ca3",
+            "id": "41e4958020158360",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RedeNeural/NAR.md",
+                "file": "Identidade Linear Function.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "80e1b276df26c2aa",
+            "id": "9683d79e8c49948a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG - Prod.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7f31c48a11d370b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attention.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef612628a9c204ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fuction Calling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fc03e02009d8da8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LoRA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7d7c3ccec8f4d4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Search in Vector Database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0b81df038995ce3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multi-Hop.md",
+                "file": "SOFTMAX Function.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multi-Hop.md",
+                "file": "SOFTMAX Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multi-Hop.md",
+                "file": "SOFTMAX Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multi-Hop.md"
+                "file": "SOFTMAX Function.md"
               }
             }
           }
@@ -219,53 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0b81df038995ce3",
+  "active": "9683d79e8c49948a",
   "lastOpenFiles": [
-    "Pasted image 20240821092440.png",
-    "Search in Vector Database.md",
+    "Pasted image 20240824224951.png",
+    "Identidade Linear Function.md",
+    "SOFTMAX Function.md",
+    "Pasted image 20240824224654.png",
+    "GeLU Function.md",
+    "Softplus Function.md",
+    "FunctionAtivation",
+    "Mish Function.md",
+    "Pasted image 20240824224444.png",
+    "Pasted image 20240824224307.png",
+    "Swish Function.md",
+    "Pasted image 20240824224235.png",
+    "Pasted image 20240824224046.png",
+    "Pasted image 20240824223928.png",
+    "Pasted image 20240824223823.png",
+    "Pasted image 20240824223733.png",
+    "Parametric ReLU.md",
+    "Pasted image 20240824223615.png",
+    "Pasted image 20240824223553.png",
+    "Leaky ReLU Function.md",
+    "ReLU Function.md",
+    "Logistica Function.md",
+    "Tangente Hiperbolica Function.md",
+    "Step Function.md",
+    "Transformer2.md",
+    "Sematic Search.md",
+    "RAG LangChain SingleStore.md",
+    "RAG.md",
+    "RAG Pipeline.md",
     "Multi-Hop.md",
-    "Pasted image 20240820214953.png",
+    "Search in Vector Database.md",
     "LoRA.md",
-    "Pasted image 20240820214852.png",
     "Fuction Calling.md",
-    "Pasted image 20240820212431.png",
     "Attention.md",
-    "Pasted image 20240815173324.png",
     "RAG - Prod.md",
-    "Pasted image 20240813205219.png",
     "RedeNeural/NAR.md",
     "RedeNeural/TransNAR.md",
-    "Describe an Image.md",
-    "RedeNeural/Redes Neurais.md",
-    "RAG/RAG implementing.md",
-    "AI-9000/OCR (reconhecimento óptico de caracteres) e análise espacial.md",
-    "Overlap.md",
-    "AI-9000/OCR.md",
-    "Glossary/Image Classification.md",
-    "NLP/Service_used_for_NLP_in_Microsoft_Azure.md",
-    "Accuracy.md",
-    "NLP/NLP.md",
-    "ComputerVision/Computer Vision in Microsoft Azure.md",
-    "Form Recognizer.md",
-    "ComputerVision/Computer Vision Service.md",
-    "Glossary/Form Recognizer Service.md",
-    "AI-9000/Optical Character Recognition.md",
-    "Bot_Framework.md",
-    "Metric classification.md",
-    "Img/Pasted image 20240810152637.png",
-    "Img/Pasted image 20240810153018.png",
-    "Img/Pasted image 20240811102534.png",
-    "Img/mlAlgorithms.png",
     "ComputerVision",
     "RedeNeural",
-    "Img/Pasted image 20240808124936.png",
     "AI-9000",
     "books/2_Ficha Cadastral.pdf",
     "books/2_Ficha Cadastral.pdf.crdownload",
     "books/LLMs_arquiteturas.pdf",
     "books/LLMs_arquiteturas.pdf.crdownload",
     "BD_Vector",
-    "LlamaIndex",
-    "ML"
+    "LlamaIndex"
   ]
 }
