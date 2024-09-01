@@ -23,16 +23,50 @@
             "id": "9683d79e8c49948a",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Img/Pasted image 20240813205219.png"
+              }
+            }
+          },
+          {
+            "id": "f4110881641c0e67",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTMAX Function.md",
+                "file": "RAG Vector Store.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29f3a3bc9ba159cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAG Vector 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31bb4216a519771e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gemini.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOFTMAX Function.md",
+                "file": "Gemini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOFTMAX Function.md",
+                "file": "Gemini.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOFTMAX Function.md"
+                "file": "Gemini.md"
               }
             }
           }
@@ -159,27 +193,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9683d79e8c49948a",
+  "active": "31bb4216a519771e",
   "lastOpenFiles": [
-    "Pasted image 20240824224951.png",
+    "Pasted image 20240901122610.png",
+    "RAG Vector 2.md",
+    "Gemini.md",
+    "Pasted image 20240829204709.png",
+    "Pasted image 20240829204632.png",
+    "RAG Vector Store.md",
+    "Pasted image 20240829190126.png",
     "Identidade Linear Function.md",
+    "Img/Pasted image 20240824224951.png",
     "SOFTMAX Function.md",
-    "Pasted image 20240824224654.png",
+    "Img/Pasted image 20240824224654.png",
     "GeLU Function.md",
     "Softplus Function.md",
     "FunctionAtivation",
     "Mish Function.md",
-    "Pasted image 20240824224444.png",
-    "Pasted image 20240824224307.png",
+    "Img/Pasted image 20240824224444.png",
+    "Img/Pasted image 20240824224307.png",
     "Swish Function.md",
-    "Pasted image 20240824224235.png",
-    "Pasted image 20240824224046.png",
-    "Pasted image 20240824223928.png",
-    "Pasted image 20240824223823.png",
-    "Pasted image 20240824223733.png",
+    "Img/Pasted image 20240824224235.png",
+    "Img/Pasted image 20240824224046.png",
+    "Img/Pasted image 20240824223928.png",
     "Parametric ReLU.md",
-    "Pasted image 20240824223615.png",
-    "Pasted image 20240824223553.png",
     "Leaky ReLU Function.md",
     "ReLU Function.md",
     "Logistica Function.md",
@@ -195,9 +232,6 @@
     "LoRA.md",
     "Fuction Calling.md",
     "Attention.md",
-    "RAG - Prod.md",
-    "RedeNeural/NAR.md",
-    "RedeNeural/TransNAR.md",
     "ComputerVision",
     "RedeNeural",
     "AI-9000",
