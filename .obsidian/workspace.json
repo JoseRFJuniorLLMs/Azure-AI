@@ -4,62 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "69a7c387a6378b02",
+        "id": "b885c1703769e73e",
         "type": "tabs",
         "children": [
           {
-            "id": "41e4958020158360",
+            "id": "c5de82ae463dd218",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Identidade Linear Function.md",
+                "file": "LLMs Architectures.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9683d79e8c49948a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Img/Pasted image 20240813205219.png"
-              }
-            }
-          },
-          {
-            "id": "f4110881641c0e67",
+            "id": "a4a64b8ffef526bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG Vector Store.md",
+                "file": "Underfitting Overfitting.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "29f3a3bc9ba159cd",
+            "id": "e286d1a6b121c24e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG Vector 2.md",
+                "file": "Database Types.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "31bb4216a519771e",
+            "id": "18ba3d746affaa93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gemini.md",
+                "file": "RAG Framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1977ddc662352585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vector Database vs Graph Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gemini.md",
+                "file": "Vector Database vs Graph Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gemini.md",
+                "file": "Vector Database vs Graph Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gemini.md"
+                "file": "Vector Database vs Graph Database.md"
               }
             }
           }
@@ -193,29 +195,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31bb4216a519771e",
+  "active": "1977ddc662352585",
   "lastOpenFiles": [
-    "Pasted image 20240901122610.png",
-    "RAG Vector 2.md",
+    "Pasted image 20240903193357.png",
+    "RAG Framework.md",
+    "Vector Database vs Graph Database.md",
+    "Pasted image 20240903193204.png",
+    "Database Types.md",
+    "Pasted image 20240903164356.png",
+    "Underfitting Overfitting.md",
+    "Pasted image 20240902100434.png",
+    "LLMs Architectures.md",
+    "Pasted image 20240901134005.png",
+    "LLMs Architecture.md",
+    "Pasted image 20240901133252.png",
+    "Pasted image 20240901133246.png",
+    "Pasted image 20240901133237.png",
+    "Pasted image 20240901133156.png",
+    "Pasted image 20240901133111.png",
+    "Pasted image 20240901133058.png",
+    "RAG Metrics peformace.md",
+    "MODEL MERGIN.md",
+    "LLM Chunking.md",
     "Gemini.md",
-    "Pasted image 20240829204709.png",
-    "Pasted image 20240829204632.png",
+    "RAG Vector 2.md",
     "RAG Vector Store.md",
-    "Pasted image 20240829190126.png",
     "Identidade Linear Function.md",
-    "Img/Pasted image 20240824224951.png",
     "SOFTMAX Function.md",
-    "Img/Pasted image 20240824224654.png",
     "GeLU Function.md",
     "Softplus Function.md",
     "FunctionAtivation",
     "Mish Function.md",
-    "Img/Pasted image 20240824224444.png",
-    "Img/Pasted image 20240824224307.png",
     "Swish Function.md",
-    "Img/Pasted image 20240824224235.png",
-    "Img/Pasted image 20240824224046.png",
-    "Img/Pasted image 20240824223928.png",
     "Parametric ReLU.md",
     "Leaky ReLU Function.md",
     "ReLU Function.md",
@@ -223,15 +234,6 @@
     "Tangente Hiperbolica Function.md",
     "Step Function.md",
     "Transformer2.md",
-    "Sematic Search.md",
-    "RAG LangChain SingleStore.md",
-    "RAG.md",
-    "RAG Pipeline.md",
-    "Multi-Hop.md",
-    "Search in Vector Database.md",
-    "LoRA.md",
-    "Fuction Calling.md",
-    "Attention.md",
     "ComputerVision",
     "RedeNeural",
     "AI-9000",
