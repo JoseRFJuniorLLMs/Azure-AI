@@ -40,9 +40,79 @@
                 "file": "Img/XGBoost.png"
               }
             }
+          },
+          {
+            "id": "fbe1752bfea636cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Augmented Graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b8d4b4785e3afd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAF Fusion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58a9f4999334c64c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FineTune.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1328b2cba8410fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chunking Different Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08a3c6286c263237",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedding Types in RAG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1aeb47e860a7c95",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Img/Pasted image 20240923134701.png"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -108,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Img/XGBoost.png",
+                "file": "Img/Pasted image 20240923134701.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Img/XGBoost.png",
+                "file": "Img/Pasted image 20240923134701.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Img/XGBoost.png"
+                "file": "Img/Pasted image 20240923134701.png"
               }
             }
           }
@@ -169,8 +239,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "953b2ed2206691c3",
+  "active": "fbb748057362cd65",
   "lastOpenFiles": [
+    "Img/Pasted image 20240929194803.png",
+    "RAG Full.md",
+    "Embedding Types in RAG.md",
+    "Img/Pasted image 20240928125948.png",
+    "Chunking Different Types.md",
+    "Img/Pasted image 20240927173426.png",
+    "FineTune.md",
+    "Img/Pasted image 20240926174849.png",
+    "RAF Fusion.md",
+    "Img/Pasted image 20240924101711.png",
+    "Augmented Graph.md",
+    "Img/Pasted image 20240923134701.png",
+    "Img/XGBoost.png",
     "Img/Pasted image 20240922115929.png",
     "Activation Function.md",
     "ML Basic the Decode.md",
@@ -178,19 +261,12 @@
     "AI Computer Vision.md",
     "Img/Pasted image 20240921095401.png",
     "ML BASIC ENCODER.md",
-    "Img/Pasted image 20240920204512.png",
     "Contextual Retrueval Preprocessing.md",
-    "Img/Pasted image 20240920154406.png",
     "Bias vs Variance Trade.md",
-    "Img/Pasted image 20240920154331.png",
     "GraphRAG.md",
-    "Img/Pasted image 20240918113221.png",
     "Adcanced RAG Llama3.md",
-    "Img/Pasted image 20240913202708.png",
     "BFloat16 Float16.md",
-    "Img/Pasted image 20240913164224.png",
     "Evalution Metric Precision e Recall.md",
-    "Img/Pasted image 20240904120853.png",
     "Vector Database vs Graph Database.md",
     "RAG Framework.md",
     "Database Types.md",
@@ -200,12 +276,6 @@
     "RAG Metrics peformace.md",
     "MODEL MERGIN.md",
     "LLM Chunking.md",
-    "Gemini.md",
-    "RAG Vector 2.md",
-    "RAG Vector Store.md",
-    "Identidade Linear Function.md",
-    "SOFTMAX Function.md",
-    "GeLU Function.md",
     "FunctionAtivation",
     "ComputerVision",
     "RedeNeural",
