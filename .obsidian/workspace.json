@@ -110,9 +110,43 @@
                 "file": "Img/Pasted image 20240923134701.png"
               }
             }
+          },
+          {
+            "id": "0f20452f60cfd37e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Search Tecniques for LLM Applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04f2118abfde7188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAG Workflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dd604a065a4d952",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Img/Pasted image 20241002105916.png"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -178,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Img/Pasted image 20240923134701.png",
+                "file": "Img/Pasted image 20241002105916.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Img/Pasted image 20240923134701.png",
+                "file": "Img/Pasted image 20241002105916.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Img/Pasted image 20240923134701.png"
+                "file": "Img/Pasted image 20241002105916.png"
               }
             }
           }
@@ -241,6 +275,13 @@
   },
   "active": "fbb748057362cd65",
   "lastOpenFiles": [
+    "Agentic RAG Workflow.md",
+    "Img/Pasted image 20241002105916.png",
+    "RAG Workflow.md",
+    "Img/Pasted image 20240930120029.png",
+    "Search Tecniques for LLM Applications.md",
+    "Img/Pasted image 20240930113009.png",
+    "AI Computer Vision.md",
     "Img/Pasted image 20240929194803.png",
     "RAG Full.md",
     "Embedding Types in RAG.md",
@@ -254,12 +295,8 @@
     "Augmented Graph.md",
     "Img/Pasted image 20240923134701.png",
     "Img/XGBoost.png",
-    "Img/Pasted image 20240922115929.png",
     "Activation Function.md",
     "ML Basic the Decode.md",
-    "Img/Pasted image 20240921150527.png",
-    "AI Computer Vision.md",
-    "Img/Pasted image 20240921095401.png",
     "ML BASIC ENCODER.md",
     "Contextual Retrueval Preprocessing.md",
     "Bias vs Variance Trade.md",
@@ -273,9 +310,6 @@
     "Underfitting Overfitting.md",
     "LLMs Architectures.md",
     "LLMs Architecture.md",
-    "RAG Metrics peformace.md",
-    "MODEL MERGIN.md",
-    "LLM Chunking.md",
     "FunctionAtivation",
     "ComputerVision",
     "RedeNeural",
