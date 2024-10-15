@@ -4,149 +4,179 @@
     "type": "split",
     "children": [
       {
-        "id": "5ac7461fc585a408",
+        "id": "9772f25ffec30f69",
         "type": "tabs",
         "children": [
           {
-            "id": "e7d48b8b99a85f4d",
+            "id": "cbe5db74f2fdb69b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Computer Vision.md",
+                "file": "Native Retrieval Augmented Generation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ad84f7d8d8806af9",
+            "id": "993168737bafaecd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML Basic the Decode.md",
+                "file": "Reranking.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "953b2ed2206691c3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Img/XGBoost.png"
-              }
-            }
-          },
-          {
-            "id": "fbe1752bfea636cd",
+            "id": "a7870ab590f2e687",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Augmented Graph.md",
+                "file": "Hybrid Search Example.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5b8d4b4785e3afd2",
+            "id": "c275eadb70a5c7da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAF Fusion.md",
+                "file": "GenAI Application Deployment.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "58a9f4999334c64c",
+            "id": "99ebae4033a4b649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FineTune.md",
+                "file": "RAG SnowFlake.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1328b2cba8410fda",
+            "id": "fb6b6c753edfcdf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chunking Different Types.md",
+                "file": "Sentence Classification.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "08a3c6286c263237",
+            "id": "be5218462df95a65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedding Types in RAG.md",
+                "file": "Agentic Patterns.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a1aeb47e860a7c95",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Img/Pasted image 20240923134701.png"
-              }
-            }
-          },
-          {
-            "id": "0f20452f60cfd37e",
+            "id": "bfe6e9b1c5794d5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Search Tecniques for LLM Applications.md",
+                "file": "Search in Vector Databases.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "04f2118abfde7188",
+            "id": "49ff6762fb90acc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG Workflow.md",
+                "file": "Chunking in RAG Apllications.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5dd604a065a4d952",
+            "id": "3f995353edb03999",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Img/Pasted image 20241002105916.png"
+                "file": "LLM Orchestration Ecosystem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a070a0ff1c8cc737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graph Text Relationship.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d0f601b3858e4ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8b0eebff1f08a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAG Approaches.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "830c5dd40971c88c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GPU VRAM CPU RAM.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -212,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Img/Pasted image 20241002105916.png",
+                "file": "GPU VRAM CPU RAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Img/Pasted image 20241002105916.png",
+                "file": "GPU VRAM CPU RAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Img/Pasted image 20241002105916.png"
+                "file": "GPU VRAM CPU RAM.md"
               }
             }
           }
@@ -273,43 +303,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbb748057362cd65",
+  "active": "830c5dd40971c88c",
   "lastOpenFiles": [
-    "Agentic RAG Workflow.md",
-    "Img/Pasted image 20241002105916.png",
-    "RAG Workflow.md",
-    "Img/Pasted image 20240930120029.png",
-    "Search Tecniques for LLM Applications.md",
-    "Img/Pasted image 20240930113009.png",
+    "Pasted image 20241015111004.png",
+    "RAG Approaches.md",
+    "GPU VRAM CPU RAM.md",
+    "Pasted image 20241006154624.png",
+    "Pasted image 20241004152355.png",
+    "Function.md",
+    "Pasted image 20241004115628.png",
+    "Graph Text Relationship.md",
+    "Pasted image 20241003173316.png",
+    "LLM Orchestration Ecosystem.md",
+    "Pasted image 20241003173233.png",
+    "Chunking in RAG Apllications.md",
+    "Pasted image 20241003173135.png",
+    "Search in Vector Databases.md",
+    "Pasted image 20241003170547.png",
+    "Agentic Patterns.md",
+    "Pasted image 20241003170519.png",
+    "Sentence Classification.md",
+    "Pasted image 20241003162628.png",
+    "Pasted image 20241003162622.png",
+    "RAG SnowFlake.md",
+    "GenAI Application Deployment.md",
+    "Hybrid Search Example.md",
+    "Reranking.md",
+    "Native Retrieval Augmented Generation.md",
+    "Contextual Retrieval Preprocessing.md",
     "AI Computer Vision.md",
-    "Img/Pasted image 20240929194803.png",
+    "Agentic RAG Workflow.md",
+    "RAG Workflow.md",
+    "Search Tecniques for LLM Applications.md",
     "RAG Full.md",
     "Embedding Types in RAG.md",
-    "Img/Pasted image 20240928125948.png",
     "Chunking Different Types.md",
-    "Img/Pasted image 20240927173426.png",
     "FineTune.md",
-    "Img/Pasted image 20240926174849.png",
     "RAF Fusion.md",
-    "Img/Pasted image 20240924101711.png",
     "Augmented Graph.md",
-    "Img/Pasted image 20240923134701.png",
-    "Img/XGBoost.png",
-    "Activation Function.md",
-    "ML Basic the Decode.md",
-    "ML BASIC ENCODER.md",
-    "Contextual Retrueval Preprocessing.md",
-    "Bias vs Variance Trade.md",
-    "GraphRAG.md",
-    "Adcanced RAG Llama3.md",
-    "BFloat16 Float16.md",
-    "Evalution Metric Precision e Recall.md",
-    "Vector Database vs Graph Database.md",
-    "RAG Framework.md",
-    "Database Types.md",
-    "Underfitting Overfitting.md",
-    "LLMs Architectures.md",
-    "LLMs Architecture.md",
     "FunctionAtivation",
     "ComputerVision",
     "RedeNeural",
