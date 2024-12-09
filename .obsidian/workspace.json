@@ -4,179 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "9772f25ffec30f69",
+        "id": "a37087e51b606ac5",
         "type": "tabs",
         "children": [
           {
-            "id": "cbe5db74f2fdb69b",
+            "id": "ae5f25562255802c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Native Retrieval Augmented Generation.md",
+                "file": "WorkFlow Architecture.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "WorkFlow Architecture"
             }
           },
           {
-            "id": "993168737bafaecd",
+            "id": "a87de3fcf90430ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reranking.md",
+                "file": "Machine Learning Algorithms.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Machine Learning Algorithms"
             }
           },
           {
-            "id": "a7870ab590f2e687",
+            "id": "3c808d9985f03b72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hybrid Search Example.md",
+                "file": "Agentic RAG.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Agentic RAG"
             }
           },
           {
-            "id": "c275eadb70a5c7da",
+            "id": "2aae28631cfcf7e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GenAI Application Deployment.md",
+                "file": "Machine Learning Hyperparameters.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "99ebae4033a4b649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RAG SnowFlake.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb6b6c753edfcdf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentence Classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be5218462df95a65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agentic Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfe6e9b1c5794d5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Search in Vector Databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49ff6762fb90acc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chunking in RAG Apllications.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f995353edb03999",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM Orchestration Ecosystem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a070a0ff1c8cc737",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph Text Relationship.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d0f601b3858e4ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8b0eebff1f08a2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RAG Approaches.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "830c5dd40971c88c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GPU VRAM CPU RAM.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Machine Learning Hyperparameters"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -211,7 +101,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -219,14 +111,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 226.5
   },
   "right": {
     "id": "5612a97ef8df680b",
@@ -242,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPU VRAM CPU RAM.md",
+                "file": "LLM Evaluation Metric Score.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +144,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LLM Evaluation Metric Score"
             }
           },
           {
@@ -259,10 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPU VRAM CPU RAM.md",
+                "file": "LLM Evaluation Metric Score.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LLM Evaluation Metric Score"
             }
           },
           {
@@ -273,7 +171,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -282,8 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPU VRAM CPU RAM.md"
-              }
+                "file": "LLM Evaluation Metric Score.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LLM Evaluation Metric Score"
             }
           }
         ]
@@ -303,28 +205,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "830c5dd40971c88c",
+  "active": "2aae28631cfcf7e9",
   "lastOpenFiles": [
+    "Pasted image 20241209113731.png",
+    "Agentic RAG.md",
+    "Machine Learning Hyperparameters.md",
+    "Pasted image 20241208145040.png",
+    "Machine Learning Algorithms.md",
+    "Pasted image 20241207085026.png",
+    "WorkFlow Architecture.md",
+    "Pasted image 20241126192546.png",
+    "LLM Evaluation Metric Score.md",
+    "High Performace RAG.md",
+    "Comprehensive RAG Tecniques.md",
+    "Pasted image 20241109094738.png",
+    "Untitled",
+    "Pasted image 20241025174752.png",
+    "Pasted image 20241020190339.png",
+    "Dcouments Chunks Query.md",
+    "Pasted image 20241017151128.png",
+    "GPU VRAM CPU RAM.md",
     "Pasted image 20241015111004.png",
     "RAG Approaches.md",
-    "GPU VRAM CPU RAM.md",
     "Pasted image 20241006154624.png",
     "Pasted image 20241004152355.png",
     "Function.md",
-    "Pasted image 20241004115628.png",
     "Graph Text Relationship.md",
-    "Pasted image 20241003173316.png",
     "LLM Orchestration Ecosystem.md",
-    "Pasted image 20241003173233.png",
     "Chunking in RAG Apllications.md",
-    "Pasted image 20241003173135.png",
     "Search in Vector Databases.md",
-    "Pasted image 20241003170547.png",
     "Agentic Patterns.md",
-    "Pasted image 20241003170519.png",
     "Sentence Classification.md",
-    "Pasted image 20241003162628.png",
-    "Pasted image 20241003162622.png",
     "RAG SnowFlake.md",
     "GenAI Application Deployment.md",
     "Hybrid Search Example.md",
@@ -333,14 +244,6 @@
     "Contextual Retrieval Preprocessing.md",
     "AI Computer Vision.md",
     "Agentic RAG Workflow.md",
-    "RAG Workflow.md",
-    "Search Tecniques for LLM Applications.md",
-    "RAG Full.md",
-    "Embedding Types in RAG.md",
-    "Chunking Different Types.md",
-    "FineTune.md",
-    "RAF Fusion.md",
-    "Augmented Graph.md",
     "FunctionAtivation",
     "ComputerVision",
     "RedeNeural",
@@ -349,7 +252,6 @@
     "books/2_Ficha Cadastral.pdf.crdownload",
     "books/LLMs_arquiteturas.pdf",
     "books/LLMs_arquiteturas.pdf.crdownload",
-    "BD_Vector",
-    "LlamaIndex"
+    "BD_Vector"
   ]
 }
