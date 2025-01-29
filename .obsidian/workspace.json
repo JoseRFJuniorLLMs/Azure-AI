@@ -62,9 +62,93 @@
               "icon": "lucide-file",
               "title": "RAG Best Pratics"
             }
+          },
+          {
+            "id": "440712d4c37ee07e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agentic RAG  Flow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agentic RAG  Flow"
+            }
+          },
+          {
+            "id": "a4857bf252749791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agentic AI Evolution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agentic AI Evolution"
+            }
+          },
+          {
+            "id": "78e65f3b3d767068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM Training Workflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LLM Training Workflow"
+            }
+          },
+          {
+            "id": "3afdb84a0ab868c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAG Dev Stack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RAG Dev Stack"
+            }
+          },
+          {
+            "id": "820383a645702e03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "deepseek.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "deepseek"
+            }
+          },
+          {
+            "id": "82fd9858f36c25fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QUERYING MultAttribute Vector Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QUERYING MultAttribute Vector Index"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -205,11 +289,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97e29dd920799e12",
+  "active": "82fd9858f36c25fb",
   "lastOpenFiles": [
+    "Pasted image 20250129122901.png",
+    "deepseek.md",
+    "QUERYING MultAttribute Vector Index.md",
+    "Pasted image 20250129122749.png",
+    "RAG Dev Stack.md",
+    "Pasted image 20250118154220.png",
+    "LLM Training Workflow.md",
+    "Pasted image 20250117154717.png",
+    "Agentic AI Evolution.md",
+    "Pasted image 20250114094118.png",
+    "Agentic RAG  Flow.md",
+    "Pasted image 20250104152540.png",
+    "RAG Best Pratics.md",
     "Pasted image 20250104140055.png",
     "RAG Architectures.md",
-    "RAG Best Pratics.md",
     "Pasted image 20250104135714.png",
     "Evaluating RAG Systems.md",
     "Pasted image 20241224140757.png",
@@ -218,16 +314,10 @@
     "Multimodal RAG Pipeline.md",
     "Pasted image 20241220203714.png",
     "Pasted image 20241220122320.png",
-    "Pasted image 20241212155814.png",
     "AI Agents.md",
-    "Pasted image 20241212155434.png",
     "REAL-TIME, Personalized Recommender.md",
-    "Pasted image 20241212155053.png",
-    "Pasted image 20241212155031.png",
     "RAG - todas.md",
-    "Pasted image 20241211154857.png",
     "Machine Learning Hyperparameters.md",
-    "Pasted image 20241209113731.png",
     "Agentic RAG.md",
     "Machine Learning Algorithms.md",
     "WorkFlow Architecture.md",
@@ -238,12 +328,6 @@
     "Dcouments Chunks Query.md",
     "GPU VRAM CPU RAM.md",
     "RAG Approaches.md",
-    "Function.md",
-    "Graph Text Relationship.md",
-    "LLM Orchestration Ecosystem.md",
-    "Chunking in RAG Apllications.md",
-    "Search in Vector Databases.md",
-    "Agentic Patterns.md",
     "FunctionAtivation",
     "ComputerVision",
     "RedeNeural",
