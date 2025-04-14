@@ -4,151 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "f4063cc4daa7d293",
+        "id": "6a55feac6f9fff5c",
         "type": "tabs",
         "children": [
           {
-            "id": "4d858c974abdadc7",
+            "id": "16747ab5e9b6d84d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TRANSFORMER-Simplified.md",
+                "file": "Graph RAG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TRANSFORMER-Simplified"
+              "title": "Graph RAG"
             }
           },
           {
-            "id": "c2f9b98d2fb39a24",
+            "id": "78db68e709b2d3ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evaluating RAG Systems.md",
+                "file": "Index Vector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evaluating RAG Systems"
+              "title": "Index Vector"
             }
           },
           {
-            "id": "86cb52ae3a86b5d5",
+            "id": "a501836c6cfd4947",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG Architectures.md",
+                "file": "HNSW.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAG Architectures"
+              "title": "HNSW"
             }
           },
           {
-            "id": "97e29dd920799e12",
+            "id": "4fa39afa041e9a8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG Best Pratics.md",
+                "file": "RAG/Agentic RAG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAG Best Pratics"
-            }
-          },
-          {
-            "id": "440712d4c37ee07e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agentic RAG  Flow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Agentic RAG  Flow"
-            }
-          },
-          {
-            "id": "a4857bf252749791",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agentic AI Evolution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Agentic AI Evolution"
-            }
-          },
-          {
-            "id": "78e65f3b3d767068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM Training Workflow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLM Training Workflow"
-            }
-          },
-          {
-            "id": "3afdb84a0ab868c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RAG Dev Stack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RAG Dev Stack"
-            }
-          },
-          {
-            "id": "820383a645702e03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deepseek.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "deepseek"
-            }
-          },
-          {
-            "id": "82fd9858f36c25fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QUERYING MultAttribute Vector Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "QUERYING MultAttribute Vector Index"
+              "title": "Agentic RAG"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +83,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -204,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 439.5
   },
   "right": {
     "id": "5612a97ef8df680b",
@@ -289,53 +206,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82fd9858f36c25fb",
+  "active": "fbb748057362cd65",
   "lastOpenFiles": [
-    "Pasted image 20250129122901.png",
-    "deepseek.md",
+    "RAG/RAG Workflow.md",
+    "Img/Pasted image 20250414160959.png",
+    "Img/Pasted image 20241002163959.png",
+    "Img/Pasted image 20241002164104.png",
+    "ML BASIC ENCODER.md",
+    "AI-102/Azure AI.md",
+    "AI-102/Get started with Azure AI Services/Azure Applied AI Services.md",
+    "Img/Pasted image 20250414160717.png",
+    "Img/Pasted image 20250414160628.png",
+    "Img/Pasted image 20250414160609.png",
+    "Indexing.md",
+    "AI-102/Get started with Azure AI Services",
+    "AI-102/Use AI responsibly with Azure AI Content Safety",
+    "AI-102/Deploy Azure AI services in containers",
+    "AI-102/Monitor Azure AI services",
+    "AI-102/Secure Azure AI services",
+    "AI-102/Create and consume Azure AI services",
+    "AI-102/Plan and prepare to develop AI solutions on Azure",
+    "AI-102",
+    "Img/Pasted image 20250331144955.png",
+    "HNSW.md",
+    "Img/Pasted image 20250331144905.png",
+    "Index Vector.md",
+    "Img/Pasted image 20250331144811.png",
+    "Graph RAG.md",
+    "Img/Pasted image 20250331101426.png",
+    "BASUC VECTIR SEARCH.md",
+    "Agents Horizontal e Vertical.md",
+    "BIG ARQUITETURA.md",
     "QUERYING MultAttribute Vector Index.md",
-    "Pasted image 20250129122749.png",
-    "RAG Dev Stack.md",
-    "Pasted image 20250118154220.png",
+    "Groq.md",
+    "deepseek.md",
+    "RAG/RAG Dev Stack.md",
     "LLM Training Workflow.md",
-    "Pasted image 20250117154717.png",
     "Agentic AI Evolution.md",
-    "Pasted image 20250114094118.png",
-    "Agentic RAG  Flow.md",
-    "Pasted image 20250104152540.png",
-    "RAG Best Pratics.md",
-    "Pasted image 20250104140055.png",
-    "RAG Architectures.md",
-    "Pasted image 20250104135714.png",
+    "RAG/Agentic RAG  Flow.md",
+    "RAG/RAG Best Pratics.md",
+    "RAG/RAG Architectures.md",
     "Evaluating RAG Systems.md",
-    "Pasted image 20241224140757.png",
     "TRANSFORMER-Simplified.md",
-    "RAG  Developers Stack.md",
+    "RAG/RAG  Developers Stack.md",
     "Multimodal RAG Pipeline.md",
-    "Pasted image 20241220203714.png",
-    "Pasted image 20241220122320.png",
     "AI Agents.md",
     "REAL-TIME, Personalized Recommender.md",
-    "RAG - todas.md",
-    "Machine Learning Hyperparameters.md",
-    "Agentic RAG.md",
-    "Machine Learning Algorithms.md",
-    "WorkFlow Architecture.md",
-    "LLM Evaluation Metric Score.md",
-    "High Performace RAG.md",
-    "Comprehensive RAG Tecniques.md",
-    "Untitled",
-    "Dcouments Chunks Query.md",
-    "GPU VRAM CPU RAM.md",
-    "RAG Approaches.md",
     "FunctionAtivation",
-    "ComputerVision",
-    "RedeNeural",
-    "AI-9000",
-    "books/2_Ficha Cadastral.pdf",
-    "books/2_Ficha Cadastral.pdf.crdownload",
-    "books/LLMs_arquiteturas.pdf",
-    "books/LLMs_arquiteturas.pdf.crdownload",
-    "BD_Vector"
+    "ComputerVision"
   ]
 }
