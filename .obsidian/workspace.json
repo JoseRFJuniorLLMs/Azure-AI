@@ -55,16 +55,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multi Vector Embeddings.md",
+                "file": "Graph RAG/Graph of Thoughts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multi Vector Embeddings"
+              "title": "Graph of Thoughts"
+            }
+          },
+          {
+            "id": "cd5b218c609b19f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graph RAG/Graph of Thoughts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graph of Thoughts"
+            }
+          },
+          {
+            "id": "9fed4114674e10ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/ML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ML"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -206,53 +234,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c87b9ced3450a85a",
+  "active": "9fed4114674e10ce",
   "lastOpenFiles": [
-    "Pasted image 20250420085513.png",
-    "Graph of Thoughts.md",
+    "LLMs/LLM Chunking.md",
+    "Transformer/Transformer.md",
+    "Transformer",
+    "Translation.md",
+    "Graph RAG/Graph of Thoughts.md",
+    "Graph RAG/GraphRAG.md",
+    "Graph RAG/Graph RAG.md",
+    "Graph RAG",
+    "Chunking/Chunking.md",
+    "Chunking",
+    "Agent/Agent2Agent Protocol.md",
+    "Agent/AgenteGen.md",
+    "Img/Pasted image 20250414173215.png",
+    "Agent",
     "Multi Vector Embeddings.md",
-    "Pasted image 20250420085405.png",
+    "Img/Pasted image 20250420085513.png",
+    "Img/Pasted image 20250420085405.png",
     "RAG vs Agentic RAG.md",
-    "Pasted image 20250420085309.png",
+    "Img/Pasted image 20250420085309.png",
     "RAG vs Agentic RAG cs MCP.md",
     "LangGraph.md",
-    "AI Agent Architecture.md",
-    "Pasted image 20250420085159.png",
-    "Pasted image 20250420085117.png",
-    "Pasted image 20250420085001.png",
+    "Agent/AI Agent Architecture.md",
+    "Img/Pasted image 20250420085159.png",
+    "Img/Pasted image 20250420085117.png",
+    "Img/Pasted image 20250420085001.png",
     "Vunerabilities MCP.md",
-    "Pasted image 20250420084619.png",
-    "Agent2Agent Protocol.md",
-    "Pasted image 20250420084456.png",
+    "Img/Pasted image 20250420084619.png",
+    "Img/Pasted image 20250420084456.png",
     "MCP.md",
-    "Pasted image 20250420083057.png",
+    "Img/Pasted image 20250420083057.png",
     "Reinforcement Learinig.md",
-    "Pasted image 20250420082917.png",
     "Generative AI Project Structure.md",
-    "Pasted image 20250420082748.png",
-    "Agentic Interference Pipeline.md",
+    "Agent/Agentic Interference Pipeline.md",
     "Synthetic data Generation.md",
     "3 Layer of AI Agent Memory.md",
     "Driver AI Agent.md",
-    "Agentic AI RAG Workflow.md",
-    "LLM RAG AGENT.md",
-    "Agentic Workflow in Healthcare.md",
+    "Agent/Agentic AI RAG Workflow.md",
+    "LLMs/LLM RAG AGENT.md",
+    "Agent/Agentic Workflow in Healthcare.md",
     "Traditional GenAI x Agentic GenAI.md",
-    "Agentic AI Stack.md",
-    "Function Calling with Google's.md",
-    "RAG Full.md",
-    "RAG/Agentic RAG.md",
-    "RAG/RAG Workflow.md",
-    "ML BASIC ENCODER.md",
     "AI-102/Get started with Azure AI Services",
     "AI-102/Use AI responsibly with Azure AI Content Safety",
     "AI-102/Deploy Azure AI services in containers",
     "AI-102/Monitor Azure AI services",
     "AI-102/Secure Azure AI services",
-    "AI-102/Create and consume Azure AI services",
-    "AI-102/Plan and prepare to develop AI solutions on Azure",
-    "AI-102",
-    "FunctionAtivation",
-    "ComputerVision"
+    "AI-102/Create and consume Azure AI services"
   ]
 }
