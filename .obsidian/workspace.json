@@ -4,63 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "6a55feac6f9fff5c",
+        "id": "882efb8eeda0a7e3",
         "type": "tabs",
         "children": [
           {
-            "id": "16747ab5e9b6d84d",
+            "id": "95a6ced4268a4c38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph RAG.md",
+                "file": "RAG vs Agentic RAG cs MCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graph RAG"
+              "title": "RAG vs Agentic RAG cs MCP"
             }
           },
           {
-            "id": "78db68e709b2d3ac",
+            "id": "9beb51bc981e4c74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index Vector.md",
+                "file": "RAG vs Agentic RAG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index Vector"
+              "title": "RAG vs Agentic RAG"
             }
           },
           {
-            "id": "a501836c6cfd4947",
+            "id": "863f81af31fccc6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HNSW.md",
+                "file": "Graph of Thoughts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HNSW"
+              "title": "Graph of Thoughts"
             }
           },
           {
-            "id": "4fa39afa041e9a8e",
+            "id": "c87b9ced3450a85a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG/Agentic RAG.md",
+                "file": "Multi Vector Embeddings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agentic RAG"
+              "title": "Multi Vector Embeddings"
             }
           }
         ],
@@ -206,19 +206,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbb748057362cd65",
+  "active": "c87b9ced3450a85a",
   "lastOpenFiles": [
+    "Pasted image 20250420085513.png",
+    "Graph of Thoughts.md",
+    "Multi Vector Embeddings.md",
+    "Pasted image 20250420085405.png",
+    "RAG vs Agentic RAG.md",
+    "Pasted image 20250420085309.png",
+    "RAG vs Agentic RAG cs MCP.md",
+    "LangGraph.md",
+    "AI Agent Architecture.md",
+    "Pasted image 20250420085159.png",
+    "Pasted image 20250420085117.png",
+    "Pasted image 20250420085001.png",
+    "Vunerabilities MCP.md",
+    "Pasted image 20250420084619.png",
+    "Agent2Agent Protocol.md",
+    "Pasted image 20250420084456.png",
+    "MCP.md",
+    "Pasted image 20250420083057.png",
+    "Reinforcement Learinig.md",
+    "Pasted image 20250420082917.png",
+    "Generative AI Project Structure.md",
+    "Pasted image 20250420082748.png",
+    "Agentic Interference Pipeline.md",
+    "Synthetic data Generation.md",
+    "3 Layer of AI Agent Memory.md",
+    "Driver AI Agent.md",
+    "Agentic AI RAG Workflow.md",
+    "LLM RAG AGENT.md",
+    "Agentic Workflow in Healthcare.md",
+    "Traditional GenAI x Agentic GenAI.md",
+    "Agentic AI Stack.md",
+    "Function Calling with Google's.md",
+    "RAG Full.md",
+    "RAG/Agentic RAG.md",
     "RAG/RAG Workflow.md",
-    "Img/Pasted image 20250414160959.png",
-    "Img/Pasted image 20241002163959.png",
-    "Img/Pasted image 20241002164104.png",
     "ML BASIC ENCODER.md",
-    "AI-102/Azure AI.md",
-    "AI-102/Get started with Azure AI Services/Azure Applied AI Services.md",
-    "Img/Pasted image 20250414160717.png",
-    "Img/Pasted image 20250414160628.png",
-    "Img/Pasted image 20250414160609.png",
-    "Indexing.md",
     "AI-102/Get started with Azure AI Services",
     "AI-102/Use AI responsibly with Azure AI Content Safety",
     "AI-102/Deploy Azure AI services in containers",
@@ -227,31 +252,6 @@
     "AI-102/Create and consume Azure AI services",
     "AI-102/Plan and prepare to develop AI solutions on Azure",
     "AI-102",
-    "Img/Pasted image 20250331144955.png",
-    "HNSW.md",
-    "Img/Pasted image 20250331144905.png",
-    "Index Vector.md",
-    "Img/Pasted image 20250331144811.png",
-    "Graph RAG.md",
-    "Img/Pasted image 20250331101426.png",
-    "BASUC VECTIR SEARCH.md",
-    "Agents Horizontal e Vertical.md",
-    "BIG ARQUITETURA.md",
-    "QUERYING MultAttribute Vector Index.md",
-    "Groq.md",
-    "deepseek.md",
-    "RAG/RAG Dev Stack.md",
-    "LLM Training Workflow.md",
-    "Agentic AI Evolution.md",
-    "RAG/Agentic RAG  Flow.md",
-    "RAG/RAG Best Pratics.md",
-    "RAG/RAG Architectures.md",
-    "Evaluating RAG Systems.md",
-    "TRANSFORMER-Simplified.md",
-    "RAG/RAG  Developers Stack.md",
-    "Multimodal RAG Pipeline.md",
-    "AI Agents.md",
-    "REAL-TIME, Personalized Recommender.md",
     "FunctionAtivation",
     "ComputerVision"
   ]
