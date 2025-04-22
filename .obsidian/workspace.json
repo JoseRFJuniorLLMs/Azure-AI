@@ -90,9 +90,79 @@
               "icon": "lucide-file",
               "title": "ML"
             }
+          },
+          {
+            "id": "25dd33363f6dffea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Agent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Agent"
+            }
+          },
+          {
+            "id": "17845a7ef090a131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Agents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Agents"
+            }
+          },
+          {
+            "id": "b3f1ea558e8fba5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCP vs A2A.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MCP vs A2A"
+            }
+          },
+          {
+            "id": "386d07f1ccdb515d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCP vs A2A vs Functional Calling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MCP vs A2A vs Functional Calling"
+            }
+          },
+          {
+            "id": "c05878c1e300a450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interaction Paradigm LLMs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interaction Paradigm LLMs"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -234,8 +304,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fed4114674e10ce",
+  "active": "c05878c1e300a450",
   "lastOpenFiles": [
+    "Pasted image 20250422172401.png",
+    "MCP vs A2A vs Functional Calling.md",
+    "Interaction Paradigm LLMs.md",
+    "Pasted image 20250420125951.png",
+    "MCP vs A2A.md",
+    "Pasted image 20250420120327.png",
+    "AI Agents.md",
+    "Pasted image 20250420103141.png",
+    "AI Agent.md",
+    "Pasted image 20250420102359.png",
+    "ML/ML.md",
     "LLMs/LLM Chunking.md",
     "Transformer/Transformer.md",
     "Transformer",
@@ -260,22 +341,11 @@
     "Agent/AI Agent Architecture.md",
     "Img/Pasted image 20250420085159.png",
     "Img/Pasted image 20250420085117.png",
-    "Img/Pasted image 20250420085001.png",
     "Vunerabilities MCP.md",
-    "Img/Pasted image 20250420084619.png",
-    "Img/Pasted image 20250420084456.png",
     "MCP.md",
-    "Img/Pasted image 20250420083057.png",
     "Reinforcement Learinig.md",
     "Generative AI Project Structure.md",
     "Agent/Agentic Interference Pipeline.md",
-    "Synthetic data Generation.md",
-    "3 Layer of AI Agent Memory.md",
-    "Driver AI Agent.md",
-    "Agent/Agentic AI RAG Workflow.md",
-    "LLMs/LLM RAG AGENT.md",
-    "Agent/Agentic Workflow in Healthcare.md",
-    "Traditional GenAI x Agentic GenAI.md",
     "AI-102/Get started with Azure AI Services",
     "AI-102/Use AI responsibly with Azure AI Content Safety",
     "AI-102/Deploy Azure AI services in containers",
