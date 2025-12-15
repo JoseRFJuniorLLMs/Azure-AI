@@ -4,109 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ffc505dc069a0d4f",
+        "id": "f997456c210f2dee",
         "type": "tabs",
         "children": [
           {
-            "id": "c8b9c5cc9025829d",
+            "id": "676ab0c686f234d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "MCP Architecture.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 1.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "MCP Architecture"
-            }
-          },
-          {
-            "id": "96b5039767f55b78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MCP context protocol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MCP context protocol"
-            }
-          },
-          {
-            "id": "492ac8e643ffea40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cheatsheet Machine Learning Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cheatsheet Machine Learning Algorithms"
-            }
-          },
-          {
-            "id": "44cab8cfb1614d57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOW RAG WOKS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HOW RAG WOKS"
-            }
-          },
-          {
-            "id": "f20cdafd1ac32112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ComputerVision/Computer Vision Service.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Computer Vision Service"
-            }
-          },
-          {
-            "id": "704c43261942b515",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROADMAP FOR AI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ROADMAP FOR AI"
-            }
-          },
-          {
-            "id": "0a5158f33fc69927",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AGENTIC DESIGN PATTERNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AGENTIC DESIGN PATTERNS"
+              "icon": "lucide-table",
+              "title": "Untitled 1"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -248,46 +163,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a5158f33fc69927",
+  "active": "676ab0c686f234d7",
   "lastOpenFiles": [
-    "Pasted image 20250730204117.png",
-    "ROADMAP FOR AI.md",
-    "AGENTIC DESIGN PATTERNS.md",
-    "Pasted image 20250730204022.png",
-    "ComputerVision/Computer Vision Service.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Evaluation LLMs.md",
+    "Pasted image 20251215225356.png",
+    "Ai Agent Aarchitecture.md",
+    "Pasted image 20251215225233.png",
+    "MCP vs ACP vs A2A vs ANP.md",
+    "Pasted image 20251215184435.png",
+    "AI in a NutShell.md",
+    "Pasted image 20251215174627.png",
+    "Data Engineering.md",
+    "Pasted image 20251215173636.png",
+    "Build an AI Agent.md",
+    "Pasted image 20251215173405.png",
+    "How To Build AI Agents.md",
+    "Pasted image 20251215164627.png",
+    "AI Model Architectures.md",
+    "Pasted image 20251215162912.png",
+    "8 Different Specialized AI Models.md",
+    "Pasted image 20251215162016.png",
+    "LLM Architecture.md",
+    "Pasted image 20251215161707.png",
+    "Agentic RAG.md",
+    "LLM development.md",
+    "CAG X RAG.md",
+    "RAG Developers Stack.md",
+    "Microsoft Azure Tech Stack AI-ML.md",
+    "Different Categories in Generative AI.md",
+    "Blueprint for AI-Driven Query System.md",
+    "Small Language Models (SLMS).md",
+    "Traditional AI vs Agentic AI vs Agentic RAG.md",
+    "Agentic Desing Patterns.md",
+    "The LLM Aplication Development Burger.md",
+    "AI Agents Stack.md",
     "Glossary/AI-900.md",
-    "MODEL CONTEXT PROTOCOL MCP.md",
-    "Pasted image 20250714201538.png",
-    "HOW RAG WOKS.md",
-    "Pasted image 20250626230741.png",
-    "Cheatsheet Machine Learning Algorithms.md",
-    "Pasted image 20250626230426.png",
-    "MCP context protocol.md",
-    "Pasted image 20250619003937.png",
-    "MCP Architecture.md",
-    "Pasted image 20250428205311.png",
-    "Img/Pasted-Image-156.png",
-    "MCP vs A2A vs Functional Calling.md",
-    "MCP.md",
-    "AI Agent - Guardrails Architecture.md",
-    "Pasted image 20250428181256.png",
-    "MCP vs Function Calling.md",
-    "Pasted image 20250427202149.png",
-    "Img/Pasted-Image-157.png",
-    "Building A Generative AI Platform.md",
+    "Embedding Model.md",
+    "LangGraph vs AutoGen.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Pasted image 20250420083057.png.md",
-    "AGENTIC RAG vs RAG.md",
-    "Vunerabilities MCP.md",
-    "WorkFlow Architecture.md",
-    "XGBoost Hyperparameters.md",
-    "Transformation from Single Query to Multi Query.md",
-    "Traditional GenAI x Agentic GenAI.md",
-    "Softplus Function.md",
-    "Modelagem de Linguagem Causal.md",
-    "ML Basic the Decode.md",
-    "ML BASIC ENCODER.md",
     "Transformer",
     "Graph RAG",
     "Chunking",
@@ -296,7 +212,6 @@
     "AI-102/Use AI responsibly with Azure AI Content Safety",
     "AI-102/Deploy Azure AI services in containers",
     "AI-102/Monitor Azure AI services",
-    "AI-102/Secure Azure AI services",
-    "AI-102/Create and consume Azure AI services"
+    "AI-102/Secure Azure AI services"
   ]
 }
