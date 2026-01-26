@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f997456c210f2dee",
+        "id": "d89ef9e927ccb718",
         "type": "tabs",
         "children": [
           {
-            "id": "676ab0c686f234d7",
+            "id": "d026bf3a5abfecf4",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled 1.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled 1"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -43,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -77,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 289.5
   },
   "right": {
     "id": "5612a97ef8df680b",
@@ -144,6 +141,16 @@
               "icon": "lucide-list",
               "title": "Outline of LLM Evaluation Metric Score"
             }
+          },
+          {
+            "id": "deb2c77fc41d1f0e",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ]
       }
@@ -154,64 +161,67 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "bases:Criar nova base": false
     }
   },
-  "active": "676ab0c686f234d7",
+  "active": "d026bf3a5abfecf4",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Untitled 1.base",
-    "Evaluation LLMs.md",
-    "Pasted image 20251215225356.png",
-    "Ai Agent Aarchitecture.md",
-    "Pasted image 20251215225233.png",
-    "MCP vs ACP vs A2A vs ANP.md",
-    "Pasted image 20251215184435.png",
-    "AI in a NutShell.md",
-    "Pasted image 20251215174627.png",
-    "Data Engineering.md",
-    "Pasted image 20251215173636.png",
-    "Build an AI Agent.md",
-    "Pasted image 20251215173405.png",
-    "How To Build AI Agents.md",
-    "Pasted image 20251215164627.png",
-    "AI Model Architectures.md",
-    "Pasted image 20251215162912.png",
-    "8 Different Specialized AI Models.md",
-    "Pasted image 20251215162016.png",
-    "LLM Architecture.md",
-    "Pasted image 20251215161707.png",
-    "Agentic RAG.md",
-    "LLM development.md",
-    "CAG X RAG.md",
-    "RAG Developers Stack.md",
-    "Microsoft Azure Tech Stack AI-ML.md",
-    "Different Categories in Generative AI.md",
-    "Blueprint for AI-Driven Query System.md",
-    "Small Language Models (SLMS).md",
-    "Traditional AI vs Agentic AI vs Agentic RAG.md",
-    "Agentic Desing Patterns.md",
-    "The LLM Aplication Development Burger.md",
-    "AI Agents Stack.md",
-    "Glossary/AI-900.md",
-    "Embedding Model.md",
-    "LangGraph vs AutoGen.md",
+    "Concepts/Modelagem de Linguagem Mascarada.md",
+    "Concepts/Modelagem de Linguagem Causal.md",
+    "Concepts/Augmentation.md",
+    "Concepts/Conjunto de dados de validação.md",
+    "Concepts/Automated_Machine_Learning.md",
+    "Concepts/WorkFlow Architecture.md",
+    "Concepts/Unstructured Data.md",
+    "Concepts/Transformation from Single Query to Multi Query.md",
+    "Concepts/Traditional GenAI x Agentic GenAI.md",
+    "Concepts/Synthetic data Generation.md",
+    "Concepts/Structured_Data.md",
+    "Concepts/Specific_Domains.md",
+    "Concepts/Semi_Structured_Data.md",
+    "Concepts/Sematic Entropy.md",
+    "Concepts/Semantic_caching.md",
+    "Concepts/ROADMAP FOR AI.md",
+    "Concepts/Retrieval_Capability.md",
+    "Concepts/Retrieval.md",
+    "Concepts/Response_Guardrails.md",
+    "Concepts/Reranking.md",
+    "Concepts/Rerank.md",
+    "Concepts/Reduces Training Time.md",
+    "Concepts/Reduces Overfitting.md",
+    "Concepts/REAL-TIME, Personalized Recommender.md",
+    "Concepts/Query Guardrails.md",
+    "Concepts/Pipelines.md",
+    "Frameworks",
+    "Embedding",
+    "Azure",
+    "Concepts",
+    "Metrics",
+    "MCP",
+    "Img/WhatsApp Image 2025-11-01 at 13.52.05_ecb3662d.jpg",
+    "Img/Pasted image 20260115030917.png",
+    "Img/Pasted image 20260115030812.png",
+    "Img/Pasted image 20260112215514.png",
+    "Img/Pasted image 20260112193118.png",
+    "Img/Pasted image 20260105235709.png",
+    "Img/Pasted image 20251229115535.png",
+    "Img/Pasted image 20251218222424.png",
+    "Img/Pasted image 20251218154155.png",
+    "Img/Pasted image 20251218144900.png",
+    "Untitled 2.canvas",
+    "Untitled 8.base",
+    "Untitled 7.base",
+    "Untitled 6.base",
+    "Untitled 5.base",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Transformer",
-    "Graph RAG",
-    "Chunking",
-    "Agent",
-    "AI-102/Get started with Azure AI Services",
-    "AI-102/Use AI responsibly with Azure AI Content Safety",
-    "AI-102/Deploy Azure AI services in containers",
-    "AI-102/Monitor Azure AI services",
-    "AI-102/Secure Azure AI services"
+    "Untitled.canvas"
   ]
 }

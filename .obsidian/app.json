@@ -1,3 +1,8 @@
 {
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "rightToLeft": true,
+  "showLineNumber": true,
+  "strictLineBreaks": true,
+  "showUnsupportedFiles": true,
+  "uriCallbacks": true
 }
