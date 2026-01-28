@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d89ef9e927ccb718",
+        "id": "c6477865958b1075",
         "type": "tabs",
         "children": [
           {
-            "id": "d026bf3a5abfecf4",
+            "id": "bac26dec47347b22",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mcp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -172,8 +172,9 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d026bf3a5abfecf4",
+  "active": "bac26dec47347b22",
   "lastOpenFiles": [
+    "Glossary/AI-900.md",
     "Concepts/Modelagem de Linguagem Mascarada.md",
     "Concepts/Modelagem de Linguagem Causal.md",
     "Concepts/Augmentation.md",
@@ -199,7 +200,6 @@
     "Concepts/Reduces Overfitting.md",
     "Concepts/REAL-TIME, Personalized Recommender.md",
     "Concepts/Query Guardrails.md",
-    "Concepts/Pipelines.md",
     "Frameworks",
     "Embedding",
     "Azure",
